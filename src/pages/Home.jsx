@@ -101,9 +101,9 @@ const Home = () => {
     <div className="home-page">
       <div className="container">
         <header className="hero">
-          <h1>Last Minute Now</h1>
+          <h1>ZipMinute</h1>
           <p className="hero-subtitle">
-            Find available services near you, right now
+            Deadlines seem to work, lol. Appreciate you niggas
           </p>
           <div className="hero-actions">
             <button 

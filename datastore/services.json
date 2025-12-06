@@ -1,0 +1,1048 @@
+[
+  {
+    "id": "srv_mgx74z5ue4tj",
+    "vendorId": "ven_mgx74z5t6mzq",
+    "title": "Classic Cut",
+    "durationMin": 30,
+    "basePriceCents": 2500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5uq782",
+    "vendorId": "ven_mgx74z5t6mzq",
+    "title": "Beard Trim",
+    "durationMin": 20,
+    "basePriceCents": 1500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5u76fy",
+    "vendorId": "ven_mgx74z5tfabq",
+    "title": "Beard Trim",
+    "durationMin": 20,
+    "basePriceCents": 1500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5u8otn",
+    "vendorId": "ven_mgx74z5tfabq",
+    "title": "Classic Cut",
+    "durationMin": 30,
+    "basePriceCents": 2500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5u6vqh",
+    "vendorId": "ven_mgx74z5tqfha",
+    "title": "Classic Cut",
+    "durationMin": 30,
+    "basePriceCents": 2500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5u2nds",
+    "vendorId": "ven_mgx74z5tqfha",
+    "title": "Skin Fade",
+    "durationMin": 45,
+    "basePriceCents": 3000,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5usfn6",
+    "vendorId": "ven_mgx74z5tqfha",
+    "title": "Beard Trim",
+    "durationMin": 20,
+    "basePriceCents": 1500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5uphc7",
+    "vendorId": "ven_mgx74z5to2ue",
+    "title": "Classic Cut",
+    "durationMin": 30,
+    "basePriceCents": 2500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5ut5d1",
+    "vendorId": "ven_mgx74z5to2ue",
+    "title": "Beard Trim",
+    "durationMin": 20,
+    "basePriceCents": 1500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5u3lf8",
+    "vendorId": "ven_mgx74z5to2ue",
+    "title": "Skin Fade",
+    "durationMin": 45,
+    "basePriceCents": 3000,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5udel9",
+    "vendorId": "ven_mgx74z5tmjee",
+    "title": "Skin Fade",
+    "durationMin": 45,
+    "basePriceCents": 3000,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5u0h98",
+    "vendorId": "ven_mgx74z5tmjee",
+    "title": "Classic Cut",
+    "durationMin": 30,
+    "basePriceCents": 2500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5u80mf",
+    "vendorId": "ven_mgx74z5tplh4",
+    "title": "Skin Fade",
+    "durationMin": 45,
+    "basePriceCents": 3000,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5uk1bg",
+    "vendorId": "ven_mgx74z5tplh4",
+    "title": "Classic Cut",
+    "durationMin": 30,
+    "basePriceCents": 2500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5u38qx",
+    "vendorId": "ven_mgx74z5tplh4",
+    "title": "Beard Trim",
+    "durationMin": 20,
+    "basePriceCents": 1500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5uusnw",
+    "vendorId": "ven_mgx74z5tmwpy",
+    "title": "Classic Cut",
+    "durationMin": 30,
+    "basePriceCents": 2500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5u6swe",
+    "vendorId": "ven_mgx74z5tmwpy",
+    "title": "Skin Fade",
+    "durationMin": 45,
+    "basePriceCents": 3000,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5ut13u",
+    "vendorId": "ven_mgx74z5t7gbg",
+    "title": "Classic Cut",
+    "durationMin": 30,
+    "basePriceCents": 2500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5upr6v",
+    "vendorId": "ven_mgx74z5t7gbg",
+    "title": "Beard Trim",
+    "durationMin": 20,
+    "basePriceCents": 1500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5u948h",
+    "vendorId": "ven_mgx74z5trmkr",
+    "title": "Skin Fade",
+    "durationMin": 45,
+    "basePriceCents": 3000,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5uzkox",
+    "vendorId": "ven_mgx74z5trmkr",
+    "title": "Classic Cut",
+    "durationMin": 30,
+    "basePriceCents": 2500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5uitwr",
+    "vendorId": "ven_mgx74z5trmkr",
+    "title": "Beard Trim",
+    "durationMin": 20,
+    "basePriceCents": 1500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5uzdrs",
+    "vendorId": "ven_mgx74z5t7ocg",
+    "title": "Classic Cut",
+    "durationMin": 30,
+    "basePriceCents": 2500,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5ueqlt",
+    "vendorId": "ven_mgx74z5t7ocg",
+    "title": "Skin Fade",
+    "durationMin": 45,
+    "basePriceCents": 3000,
+    "category": "barber"
+  },
+  {
+    "id": "srv_mgx74z5urkgn",
+    "vendorId": "ven_mgx74z5t0xyc",
+    "title": "RMT 60",
+    "durationMin": 60,
+    "basePriceCents": 8000,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5u9u45",
+    "vendorId": "ven_mgx74z5t0xyc",
+    "title": "RMT 30",
+    "durationMin": 30,
+    "basePriceCents": 4500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5u55r6",
+    "vendorId": "ven_mgx74z5t0xyc",
+    "title": "Deep Tissue 45",
+    "durationMin": 45,
+    "basePriceCents": 6500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5u7qmr",
+    "vendorId": "ven_mgx74z5tlk7j",
+    "title": "RMT 30",
+    "durationMin": 30,
+    "basePriceCents": 4500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5u3ijm",
+    "vendorId": "ven_mgx74z5tlk7j",
+    "title": "Deep Tissue 45",
+    "durationMin": 45,
+    "basePriceCents": 6500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5u6wd9",
+    "vendorId": "ven_mgx74z5tlk7j",
+    "title": "RMT 60",
+    "durationMin": 60,
+    "basePriceCents": 8000,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5uzn7h",
+    "vendorId": "ven_mgx74z5tkpiz",
+    "title": "RMT 30",
+    "durationMin": 30,
+    "basePriceCents": 4500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5uerzz",
+    "vendorId": "ven_mgx74z5tkpiz",
+    "title": "Deep Tissue 45",
+    "durationMin": 45,
+    "basePriceCents": 6500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5u1h1b",
+    "vendorId": "ven_mgx74z5tkpiz",
+    "title": "RMT 60",
+    "durationMin": 60,
+    "basePriceCents": 8000,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5um0b9",
+    "vendorId": "ven_mgx74z5tobjp",
+    "title": "Deep Tissue 45",
+    "durationMin": 45,
+    "basePriceCents": 6500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5up491",
+    "vendorId": "ven_mgx74z5tobjp",
+    "title": "RMT 60",
+    "durationMin": 60,
+    "basePriceCents": 8000,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5u5xdo",
+    "vendorId": "ven_mgx74z5tobjp",
+    "title": "RMT 30",
+    "durationMin": 30,
+    "basePriceCents": 4500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5unjk5",
+    "vendorId": "ven_mgx74z5tjidr",
+    "title": "RMT 60",
+    "durationMin": 60,
+    "basePriceCents": 8000,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5u39a3",
+    "vendorId": "ven_mgx74z5tjidr",
+    "title": "Deep Tissue 45",
+    "durationMin": 45,
+    "basePriceCents": 6500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5u5hsr",
+    "vendorId": "ven_mgx74z5tjidr",
+    "title": "RMT 30",
+    "durationMin": 30,
+    "basePriceCents": 4500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5uhdw7",
+    "vendorId": "ven_mgx74z5tktss",
+    "title": "Deep Tissue 45",
+    "durationMin": 45,
+    "basePriceCents": 6500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5umr7i",
+    "vendorId": "ven_mgx74z5tktss",
+    "title": "RMT 60",
+    "durationMin": 60,
+    "basePriceCents": 8000,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5uvxj2",
+    "vendorId": "ven_mgx74z5tktss",
+    "title": "RMT 30",
+    "durationMin": 30,
+    "basePriceCents": 4500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5u0djd",
+    "vendorId": "ven_mgx74z5tua5i",
+    "title": "RMT 60",
+    "durationMin": 60,
+    "basePriceCents": 8000,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5u8gik",
+    "vendorId": "ven_mgx74z5tua5i",
+    "title": "RMT 30",
+    "durationMin": 30,
+    "basePriceCents": 4500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5urb8o",
+    "vendorId": "ven_mgx74z5tl5fj",
+    "title": "RMT 30",
+    "durationMin": 30,
+    "basePriceCents": 4500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5uyewz",
+    "vendorId": "ven_mgx74z5tl5fj",
+    "title": "RMT 60",
+    "durationMin": 60,
+    "basePriceCents": 8000,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5ur1t4",
+    "vendorId": "ven_mgx74z5t912f",
+    "title": "RMT 30",
+    "durationMin": 30,
+    "basePriceCents": 4500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5vkrpq",
+    "vendorId": "ven_mgx74z5t912f",
+    "title": "RMT 60",
+    "durationMin": 60,
+    "basePriceCents": 8000,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5vi7p1",
+    "vendorId": "ven_mgx74z5t912f",
+    "title": "Deep Tissue 45",
+    "durationMin": 45,
+    "basePriceCents": 6500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5v5r6f",
+    "vendorId": "ven_mgx74z5t4tqc",
+    "title": "RMT 30",
+    "durationMin": 30,
+    "basePriceCents": 4500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5vrpx5",
+    "vendorId": "ven_mgx74z5t4tqc",
+    "title": "RMT 60",
+    "durationMin": 60,
+    "basePriceCents": 8000,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5vpjle",
+    "vendorId": "ven_mgx74z5t4tqc",
+    "title": "Deep Tissue 45",
+    "durationMin": 45,
+    "basePriceCents": 6500,
+    "category": "massage"
+  },
+  {
+    "id": "srv_mgx74z5vxwcm",
+    "vendorId": "ven_mgx74z5tvpf9",
+    "title": "Manicure",
+    "durationMin": 45,
+    "basePriceCents": 4000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vm9f6",
+    "vendorId": "ven_mgx74z5tvpf9",
+    "title": "Gel Fill",
+    "durationMin": 50,
+    "basePriceCents": 6000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5v9gcb",
+    "vendorId": "ven_mgx74z5tvpf9",
+    "title": "Pedicure",
+    "durationMin": 60,
+    "basePriceCents": 5500,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vbvts",
+    "vendorId": "ven_mgx74z5t6reb",
+    "title": "Gel Fill",
+    "durationMin": 50,
+    "basePriceCents": 6000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vkk9s",
+    "vendorId": "ven_mgx74z5t6reb",
+    "title": "Manicure",
+    "durationMin": 45,
+    "basePriceCents": 4000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vjh3m",
+    "vendorId": "ven_mgx74z5tt3zf",
+    "title": "Pedicure",
+    "durationMin": 60,
+    "basePriceCents": 5500,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vw4jt",
+    "vendorId": "ven_mgx74z5tt3zf",
+    "title": "Gel Fill",
+    "durationMin": 50,
+    "basePriceCents": 6000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vi45w",
+    "vendorId": "ven_mgx74z5tt8tx",
+    "title": "Manicure",
+    "durationMin": 45,
+    "basePriceCents": 4000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5votz2",
+    "vendorId": "ven_mgx74z5tt8tx",
+    "title": "Gel Fill",
+    "durationMin": 50,
+    "basePriceCents": 6000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vscku",
+    "vendorId": "ven_mgx74z5tt8tx",
+    "title": "Pedicure",
+    "durationMin": 60,
+    "basePriceCents": 5500,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5v6l5w",
+    "vendorId": "ven_mgx74z5tkswr",
+    "title": "Manicure",
+    "durationMin": 45,
+    "basePriceCents": 4000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vb2fs",
+    "vendorId": "ven_mgx74z5tkswr",
+    "title": "Pedicure",
+    "durationMin": 60,
+    "basePriceCents": 5500,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vnioq",
+    "vendorId": "ven_mgx74z5tsaus",
+    "title": "Gel Fill",
+    "durationMin": 50,
+    "basePriceCents": 6000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vl3l4",
+    "vendorId": "ven_mgx74z5tsaus",
+    "title": "Manicure",
+    "durationMin": 45,
+    "basePriceCents": 4000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vl6zo",
+    "vendorId": "ven_mgx74z5tsaus",
+    "title": "Pedicure",
+    "durationMin": 60,
+    "basePriceCents": 5500,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5v59mj",
+    "vendorId": "ven_mgx74z5thxvf",
+    "title": "Pedicure",
+    "durationMin": 60,
+    "basePriceCents": 5500,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vp85j",
+    "vendorId": "ven_mgx74z5thxvf",
+    "title": "Manicure",
+    "durationMin": 45,
+    "basePriceCents": 4000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vzol8",
+    "vendorId": "ven_mgx74z5thxvf",
+    "title": "Gel Fill",
+    "durationMin": 50,
+    "basePriceCents": 6000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vwn1n",
+    "vendorId": "ven_mgx74z5tifhl",
+    "title": "Gel Fill",
+    "durationMin": 50,
+    "basePriceCents": 6000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vjbdl",
+    "vendorId": "ven_mgx74z5tifhl",
+    "title": "Pedicure",
+    "durationMin": 60,
+    "basePriceCents": 5500,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5v94i6",
+    "vendorId": "ven_mgx74z5t589e",
+    "title": "Manicure",
+    "durationMin": 45,
+    "basePriceCents": 4000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vwyx2",
+    "vendorId": "ven_mgx74z5t589e",
+    "title": "Gel Fill",
+    "durationMin": 50,
+    "basePriceCents": 6000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vl8o9",
+    "vendorId": "ven_mgx74z5t589e",
+    "title": "Pedicure",
+    "durationMin": 60,
+    "basePriceCents": 5500,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vs2qn",
+    "vendorId": "ven_mgx74z5td4qq",
+    "title": "Manicure",
+    "durationMin": 45,
+    "basePriceCents": 4000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vfsis",
+    "vendorId": "ven_mgx74z5td4qq",
+    "title": "Gel Fill",
+    "durationMin": 50,
+    "basePriceCents": 6000,
+    "category": "nails"
+  },
+  {
+    "id": "srv_mgx74z5vjucn",
+    "vendorId": "ven_mgx74z5tq3dq",
+    "title": "Consult",
+    "durationMin": 30,
+    "basePriceCents": 0,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vstio",
+    "vendorId": "ven_mgx74z5tq3dq",
+    "title": "Flash (Small)",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vg3un",
+    "vendorId": "ven_mgx74z5t1ou0",
+    "title": "Flash (Small)",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vz6x7",
+    "vendorId": "ven_mgx74z5t1ou0",
+    "title": "Consult",
+    "durationMin": 30,
+    "basePriceCents": 0,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vi5ah",
+    "vendorId": "ven_mgx74z5t1ou0",
+    "title": "Touch-up",
+    "durationMin": 45,
+    "basePriceCents": 8000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5v5esm",
+    "vendorId": "ven_mgx74z5toqyy",
+    "title": "Consult",
+    "durationMin": 30,
+    "basePriceCents": 0,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5v1q3p",
+    "vendorId": "ven_mgx74z5toqyy",
+    "title": "Flash (Small)",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vwnfo",
+    "vendorId": "ven_mgx74z5toqyy",
+    "title": "Touch-up",
+    "durationMin": 45,
+    "basePriceCents": 8000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5v1k6l",
+    "vendorId": "ven_mgx74z5tvehr",
+    "title": "Touch-up",
+    "durationMin": 45,
+    "basePriceCents": 8000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5v982i",
+    "vendorId": "ven_mgx74z5tvehr",
+    "title": "Flash (Small)",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vs051",
+    "vendorId": "ven_mgx74z5tlpat",
+    "title": "Consult",
+    "durationMin": 30,
+    "basePriceCents": 0,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vgd9z",
+    "vendorId": "ven_mgx74z5tlpat",
+    "title": "Flash (Small)",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vxr7i",
+    "vendorId": "ven_mgx74z5tlpat",
+    "title": "Touch-up",
+    "durationMin": 45,
+    "basePriceCents": 8000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5v3fqt",
+    "vendorId": "ven_mgx74z5ty1p1",
+    "title": "Touch-up",
+    "durationMin": 45,
+    "basePriceCents": 8000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5v47vy",
+    "vendorId": "ven_mgx74z5ty1p1",
+    "title": "Flash (Small)",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5v9ir0",
+    "vendorId": "ven_mgx74z5t8tb3",
+    "title": "Consult",
+    "durationMin": 30,
+    "basePriceCents": 0,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vmfqb",
+    "vendorId": "ven_mgx74z5t8tb3",
+    "title": "Flash (Small)",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5v4xyw",
+    "vendorId": "ven_mgx74z5tdtkl",
+    "title": "Consult",
+    "durationMin": 30,
+    "basePriceCents": 0,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vwz1o",
+    "vendorId": "ven_mgx74z5tdtkl",
+    "title": "Touch-up",
+    "durationMin": 45,
+    "basePriceCents": 8000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vg1m4",
+    "vendorId": "ven_mgx74z5thqg5",
+    "title": "Flash (Small)",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vmf6l",
+    "vendorId": "ven_mgx74z5thqg5",
+    "title": "Touch-up",
+    "durationMin": 45,
+    "basePriceCents": 8000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5v82my",
+    "vendorId": "ven_mgx74z5thqg5",
+    "title": "Consult",
+    "durationMin": 30,
+    "basePriceCents": 0,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vub84",
+    "vendorId": "ven_mgx74z5t3me4",
+    "title": "Consult",
+    "durationMin": 30,
+    "basePriceCents": 0,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vt2ic",
+    "vendorId": "ven_mgx74z5t3me4",
+    "title": "Flash (Small)",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5v2c2k",
+    "vendorId": "ven_mgx74z5t3me4",
+    "title": "Touch-up",
+    "durationMin": 45,
+    "basePriceCents": 8000,
+    "category": "tattoo"
+  },
+  {
+    "id": "srv_mgx74z5vg2ci",
+    "vendorId": "ven_mgx74z5t21fc",
+    "title": "Quick Consult",
+    "durationMin": 30,
+    "basePriceCents": 5000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vm3lh",
+    "vendorId": "ven_mgx74z5t21fc",
+    "title": "Leak Fix",
+    "durationMin": 90,
+    "basePriceCents": 18000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5v7nrp",
+    "vendorId": "ven_mgx74z5t21fc",
+    "title": "Drain Unclog",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vvvnx",
+    "vendorId": "ven_mgx74z5t9f8u",
+    "title": "Leak Fix",
+    "durationMin": 90,
+    "basePriceCents": 18000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vh5r5",
+    "vendorId": "ven_mgx74z5t9f8u",
+    "title": "Quick Consult",
+    "durationMin": 30,
+    "basePriceCents": 5000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vrbyi",
+    "vendorId": "ven_mgx74z5t9f8u",
+    "title": "Drain Unclog",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vijsr",
+    "vendorId": "ven_mgx74z5tdtgn",
+    "title": "Drain Unclog",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vasms",
+    "vendorId": "ven_mgx74z5tdtgn",
+    "title": "Quick Consult",
+    "durationMin": 30,
+    "basePriceCents": 5000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5v2mrh",
+    "vendorId": "ven_mgx74z5tdtgn",
+    "title": "Leak Fix",
+    "durationMin": 90,
+    "basePriceCents": 18000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vnwa1",
+    "vendorId": "ven_mgx74z5t7aj6",
+    "title": "Drain Unclog",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5v9s28",
+    "vendorId": "ven_mgx74z5t7aj6",
+    "title": "Leak Fix",
+    "durationMin": 90,
+    "basePriceCents": 18000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vno29",
+    "vendorId": "ven_mgx74z5topc4",
+    "title": "Drain Unclog",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vsnns",
+    "vendorId": "ven_mgx74z5topc4",
+    "title": "Leak Fix",
+    "durationMin": 90,
+    "basePriceCents": 18000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vxnpk",
+    "vendorId": "ven_mgx74z5tf6j7",
+    "title": "Quick Consult",
+    "durationMin": 30,
+    "basePriceCents": 5000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vhf71",
+    "vendorId": "ven_mgx74z5tf6j7",
+    "title": "Drain Unclog",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vz7gg",
+    "vendorId": "ven_mgx74z5t2myr",
+    "title": "Leak Fix",
+    "durationMin": 90,
+    "basePriceCents": 18000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vsdiv",
+    "vendorId": "ven_mgx74z5t2myr",
+    "title": "Quick Consult",
+    "durationMin": 30,
+    "basePriceCents": 5000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5v4sbs",
+    "vendorId": "ven_mgx74z5twl0q",
+    "title": "Drain Unclog",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5v5km4",
+    "vendorId": "ven_mgx74z5twl0q",
+    "title": "Quick Consult",
+    "durationMin": 30,
+    "basePriceCents": 5000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vnwe7",
+    "vendorId": "ven_mgx74z5trnt9",
+    "title": "Leak Fix",
+    "durationMin": 90,
+    "basePriceCents": 18000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vc8fv",
+    "vendorId": "ven_mgx74z5trnt9",
+    "title": "Drain Unclog",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5v1nzn",
+    "vendorId": "ven_mgx74z5trnt9",
+    "title": "Quick Consult",
+    "durationMin": 30,
+    "basePriceCents": 5000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5v4jpu",
+    "vendorId": "ven_mgx74z5thyut",
+    "title": "Quick Consult",
+    "durationMin": 30,
+    "basePriceCents": 5000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5vxqq4",
+    "vendorId": "ven_mgx74z5thyut",
+    "title": "Drain Unclog",
+    "durationMin": 60,
+    "basePriceCents": 12000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx74z5v8k4s",
+    "vendorId": "ven_mgx74z5thyut",
+    "title": "Leak Fix",
+    "durationMin": 90,
+    "basePriceCents": 18000,
+    "category": "plumber"
+  },
+  {
+    "id": "srv_mgx8j9hfsb",
+    "vendorId": "vnd_demo_1",
+    "name": "Test Service",
+    "category": "barber",
+    "durationMinutes": 30,
+    "description": "A test service",
+    "priceCents": 2500,
+    "createdAt": "2025-10-19T04:57:26.979Z"
+  },
+  {
+    "id": "srv_mgx8sqd31q1",
+    "vendorId": "vnd_demo_1",
+    "name": "Test Service",
+    "category": "barber",
+    "durationMinutes": 30,
+    "description": "A test service for testing",
+    "priceCents": 2500,
+    "createdAt": "2025-10-19T05:04:48.759Z"
+  },
+  {
+    "id": "srv_mgx8uk6acc",
+    "vendorId": "vnd_demo_1",
+    "name": "Test Service",
+    "category": "barber",
+    "durationMinutes": 30,
+    "description": "A test service for testing",
+    "priceCents": 2500,
+    "createdAt": "2025-10-19T05:06:14.050Z"
+  }
+]

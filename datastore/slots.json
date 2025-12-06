@@ -1,0 +1,4923 @@
+[
+  {
+    "id": "slt_mgx74z5vrw37",
+    "serviceId": "srv_mgx74z5uq782",
+    "startAt": "2025-10-19T06:33:20.803508+00:00",
+    "endAt": "2025-10-19T06:53:20.803508+00:00",
+    "priceCents": 1350,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5vczh8",
+    "serviceId": "srv_mgx74z5ue4tj",
+    "startAt": "2025-10-19T20:48:20.803508+00:00",
+    "endAt": "2025-10-19T21:18:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5w152g",
+    "serviceId": "srv_mgx74z5ue4tj",
+    "startAt": "2025-10-19T08:48:20.803508+00:00",
+    "endAt": "2025-10-19T09:18:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5wjt43",
+    "serviceId": "srv_mgx74z5uq782",
+    "startAt": "2025-10-20T04:33:20.803508+00:00",
+    "endAt": "2025-10-20T04:53:20.803508+00:00",
+    "priceCents": 1650,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5wp8nw",
+    "serviceId": "srv_mgx74z5ue4tj",
+    "startAt": "2025-10-19T18:48:20.803508+00:00",
+    "endAt": "2025-10-19T19:18:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5woqfa",
+    "serviceId": "srv_mgx74z5uq782",
+    "startAt": "2025-10-19T13:33:20.803508+00:00",
+    "endAt": "2025-10-19T13:53:20.803508+00:00",
+    "priceCents": 1500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wvwtv",
+    "serviceId": "srv_mgx74z5uq782",
+    "startAt": "2025-10-20T10:48:20.803508+00:00",
+    "endAt": "2025-10-20T11:08:20.803508+00:00",
+    "priceCents": 1350,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wwtfd",
+    "serviceId": "srv_mgx74z5uq782",
+    "startAt": "2025-10-20T05:18:20.803508+00:00",
+    "endAt": "2025-10-20T05:38:20.803508+00:00",
+    "priceCents": 1650,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wiy06",
+    "serviceId": "srv_mgx74z5uq782",
+    "startAt": "2025-10-19T01:18:20.803508+00:00",
+    "endAt": "2025-10-19T01:38:20.803508+00:00",
+    "priceCents": 1650,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wn2p3",
+    "serviceId": "srv_mgx74z5uq782",
+    "startAt": "2025-10-19T06:48:20.803508+00:00",
+    "endAt": "2025-10-19T07:08:20.803508+00:00",
+    "priceCents": 1650,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5w786p",
+    "serviceId": "srv_mgx74z5uq782",
+    "startAt": "2025-10-20T07:03:20.803508+00:00",
+    "endAt": "2025-10-20T07:23:20.803508+00:00",
+    "priceCents": 1500,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5wluxt",
+    "serviceId": "srv_mgx74z5uq782",
+    "startAt": "2025-10-20T06:18:20.803508+00:00",
+    "endAt": "2025-10-20T06:38:20.803508+00:00",
+    "priceCents": 1350,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wapjl",
+    "serviceId": "srv_mgx74z5ue4tj",
+    "startAt": "2025-10-20T12:33:20.803508+00:00",
+    "endAt": "2025-10-20T13:03:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wnl7q",
+    "serviceId": "srv_mgx74z5u8otn",
+    "startAt": "2025-10-20T19:48:20.803508+00:00",
+    "endAt": "2025-10-20T20:18:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5we3ua",
+    "serviceId": "srv_mgx74z5u8otn",
+    "startAt": "2025-10-21T00:18:20.803508+00:00",
+    "endAt": "2025-10-21T00:48:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wc1sk",
+    "serviceId": "srv_mgx74z5u8otn",
+    "startAt": "2025-10-19T07:33:20.803508+00:00",
+    "endAt": "2025-10-19T08:03:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wwu38",
+    "serviceId": "srv_mgx74z5u8otn",
+    "startAt": "2025-10-19T08:03:20.803508+00:00",
+    "endAt": "2025-10-19T08:33:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5wymgu",
+    "serviceId": "srv_mgx74z5u8otn",
+    "startAt": "2025-10-19T10:03:20.803508+00:00",
+    "endAt": "2025-10-19T10:33:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5wkumz",
+    "serviceId": "srv_mgx74z5u8otn",
+    "startAt": "2025-10-20T19:33:20.803508+00:00",
+    "endAt": "2025-10-20T20:03:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5wi2i5",
+    "serviceId": "srv_mgx74z5u8otn",
+    "startAt": "2025-10-21T02:48:20.803508+00:00",
+    "endAt": "2025-10-21T03:18:20.803508+00:00",
+    "priceCents": 2250,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5wf3xe",
+    "serviceId": "srv_mgx74z5u8otn",
+    "startAt": "2025-10-20T09:48:20.803508+00:00",
+    "endAt": "2025-10-20T10:18:20.803508+00:00",
+    "priceCents": 2250,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5w680z",
+    "serviceId": "srv_mgx74z5u76fy",
+    "startAt": "2025-10-19T01:18:20.803508+00:00",
+    "endAt": "2025-10-19T01:38:20.803508+00:00",
+    "priceCents": 1650,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wiki3",
+    "serviceId": "srv_mgx74z5u76fy",
+    "startAt": "2025-10-20T01:03:20.803508+00:00",
+    "endAt": "2025-10-20T01:23:20.803508+00:00",
+    "priceCents": 1350,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wbqb2",
+    "serviceId": "srv_mgx74z5u76fy",
+    "startAt": "2025-10-20T15:33:20.803508+00:00",
+    "endAt": "2025-10-20T15:53:20.803508+00:00",
+    "priceCents": 1200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5w20j6",
+    "serviceId": "srv_mgx74z5u8otn",
+    "startAt": "2025-10-21T01:03:20.803508+00:00",
+    "endAt": "2025-10-21T01:33:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5w8wth",
+    "serviceId": "srv_mgx74z5u8otn",
+    "startAt": "2025-10-19T17:03:20.803508+00:00",
+    "endAt": "2025-10-19T17:33:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5wbprw",
+    "serviceId": "srv_mgx74z5u8otn",
+    "startAt": "2025-10-21T00:48:20.803508+00:00",
+    "endAt": "2025-10-21T01:18:20.803508+00:00",
+    "priceCents": 2250,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wukf0",
+    "serviceId": "srv_mgx74z5u6vqh",
+    "startAt": "2025-10-19T23:18:20.803508+00:00",
+    "endAt": "2025-10-19T23:48:20.803508+00:00",
+    "priceCents": 2250,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wlj0g",
+    "serviceId": "srv_mgx74z5u2nds",
+    "startAt": "2025-10-19T22:33:20.803508+00:00",
+    "endAt": "2025-10-19T23:18:20.803508+00:00",
+    "priceCents": 3000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wtjap",
+    "serviceId": "srv_mgx74z5usfn6",
+    "startAt": "2025-10-19T21:33:20.803508+00:00",
+    "endAt": "2025-10-19T21:53:20.803508+00:00",
+    "priceCents": 1200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wnee8",
+    "serviceId": "srv_mgx74z5usfn6",
+    "startAt": "2025-10-20T06:48:20.803508+00:00",
+    "endAt": "2025-10-20T07:08:20.803508+00:00",
+    "priceCents": 1500,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5wxsxn",
+    "serviceId": "srv_mgx74z5u2nds",
+    "startAt": "2025-10-20T22:33:20.803508+00:00",
+    "endAt": "2025-10-20T23:18:20.803508+00:00",
+    "priceCents": 2400,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5w7dv5",
+    "serviceId": "srv_mgx74z5usfn6",
+    "startAt": "2025-10-20T08:33:20.803508+00:00",
+    "endAt": "2025-10-20T08:53:20.803508+00:00",
+    "priceCents": 1650,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wt3zt",
+    "serviceId": "srv_mgx74z5usfn6",
+    "startAt": "2025-10-20T02:18:20.803508+00:00",
+    "endAt": "2025-10-20T02:38:20.803508+00:00",
+    "priceCents": 1650,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wg0d4",
+    "serviceId": "srv_mgx74z5usfn6",
+    "startAt": "2025-10-21T01:48:20.803508+00:00",
+    "endAt": "2025-10-21T02:08:20.803508+00:00",
+    "priceCents": 1650,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5w8qno",
+    "serviceId": "srv_mgx74z5u6vqh",
+    "startAt": "2025-10-20T04:18:20.803508+00:00",
+    "endAt": "2025-10-20T04:48:20.803508+00:00",
+    "priceCents": 2250,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wm7by",
+    "serviceId": "srv_mgx74z5u2nds",
+    "startAt": "2025-10-19T23:03:20.803508+00:00",
+    "endAt": "2025-10-19T23:48:20.803508+00:00",
+    "priceCents": 2700,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5w01jt",
+    "serviceId": "srv_mgx74z5u2nds",
+    "startAt": "2025-10-20T07:33:20.803508+00:00",
+    "endAt": "2025-10-20T08:18:20.803508+00:00",
+    "priceCents": 2700,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5wc72q",
+    "serviceId": "srv_mgx74z5u6vqh",
+    "startAt": "2025-10-19T14:03:20.803508+00:00",
+    "endAt": "2025-10-19T14:33:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5ws3f2",
+    "serviceId": "srv_mgx74z5uphc7",
+    "startAt": "2025-10-19T13:33:20.803508+00:00",
+    "endAt": "2025-10-19T14:03:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5w8wie",
+    "serviceId": "srv_mgx74z5ut5d1",
+    "startAt": "2025-10-20T02:33:20.803508+00:00",
+    "endAt": "2025-10-20T02:53:20.803508+00:00",
+    "priceCents": 1200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wfj9x",
+    "serviceId": "srv_mgx74z5u3lf8",
+    "startAt": "2025-10-20T10:48:20.803508+00:00",
+    "endAt": "2025-10-20T11:33:20.803508+00:00",
+    "priceCents": 3000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wrzv3",
+    "serviceId": "srv_mgx74z5uphc7",
+    "startAt": "2025-10-20T00:48:20.803508+00:00",
+    "endAt": "2025-10-20T01:18:20.803508+00:00",
+    "priceCents": 2250,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wqq9j",
+    "serviceId": "srv_mgx74z5ut5d1",
+    "startAt": "2025-10-20T16:03:20.803508+00:00",
+    "endAt": "2025-10-20T16:23:20.803508+00:00",
+    "priceCents": 1500,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5wqzx8",
+    "serviceId": "srv_mgx74z5u3lf8",
+    "startAt": "2025-10-19T08:03:20.803508+00:00",
+    "endAt": "2025-10-19T08:48:20.803508+00:00",
+    "priceCents": 3300,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5w24cz",
+    "serviceId": "srv_mgx74z5ut5d1",
+    "startAt": "2025-10-19T03:33:20.803508+00:00",
+    "endAt": "2025-10-19T03:53:20.803508+00:00",
+    "priceCents": 1650,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5wj0dc",
+    "serviceId": "srv_mgx74z5uphc7",
+    "startAt": "2025-10-20T04:33:20.803508+00:00",
+    "endAt": "2025-10-20T05:03:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5xtymj",
+    "serviceId": "srv_mgx74z5uphc7",
+    "startAt": "2025-10-20T09:48:20.803508+00:00",
+    "endAt": "2025-10-20T10:18:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5xkq2e",
+    "serviceId": "srv_mgx74z5u3lf8",
+    "startAt": "2025-10-20T04:48:20.803508+00:00",
+    "endAt": "2025-10-20T05:33:20.803508+00:00",
+    "priceCents": 3000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5xvzlg",
+    "serviceId": "srv_mgx74z5uphc7",
+    "startAt": "2025-10-19T19:33:20.803508+00:00",
+    "endAt": "2025-10-19T20:03:20.803508+00:00",
+    "priceCents": 2250,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xa8yv",
+    "serviceId": "srv_mgx74z5ut5d1",
+    "startAt": "2025-10-20T21:03:20.803508+00:00",
+    "endAt": "2025-10-20T21:23:20.803508+00:00",
+    "priceCents": 1500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5x30q8",
+    "serviceId": "srv_mgx74z5uphc7",
+    "startAt": "2025-10-20T08:18:20.803508+00:00",
+    "endAt": "2025-10-20T08:48:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xdwtn",
+    "serviceId": "srv_mgx74z5u3lf8",
+    "startAt": "2025-10-19T12:18:20.803508+00:00",
+    "endAt": "2025-10-19T13:03:20.803508+00:00",
+    "priceCents": 2400,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5xyi1w",
+    "serviceId": "srv_mgx74z5u0h98",
+    "startAt": "2025-10-18T22:18:20.803508+00:00",
+    "endAt": "2025-10-18T22:48:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xx9fc",
+    "serviceId": "srv_mgx74z5u0h98",
+    "startAt": "2025-10-21T01:33:20.803508+00:00",
+    "endAt": "2025-10-21T02:03:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5x5npt",
+    "serviceId": "srv_mgx74z5u0h98",
+    "startAt": "2025-10-21T02:48:20.803508+00:00",
+    "endAt": "2025-10-21T03:18:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5x25po",
+    "serviceId": "srv_mgx74z5udel9",
+    "startAt": "2025-10-20T18:33:20.803508+00:00",
+    "endAt": "2025-10-20T19:18:20.803508+00:00",
+    "priceCents": 2400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xa5vr",
+    "serviceId": "srv_mgx74z5u0h98",
+    "startAt": "2025-10-20T10:03:20.803508+00:00",
+    "endAt": "2025-10-20T10:33:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xeduh",
+    "serviceId": "srv_mgx74z5u0h98",
+    "startAt": "2025-10-20T10:18:20.803508+00:00",
+    "endAt": "2025-10-20T10:48:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5x4jaf",
+    "serviceId": "srv_mgx74z5u0h98",
+    "startAt": "2025-10-18T23:33:20.803508+00:00",
+    "endAt": "2025-10-19T00:03:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5x5wm3",
+    "serviceId": "srv_mgx74z5u0h98",
+    "startAt": "2025-10-20T17:48:20.803508+00:00",
+    "endAt": "2025-10-20T18:18:20.803508+00:00",
+    "priceCents": 2250,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xpk1h",
+    "serviceId": "srv_mgx74z5udel9",
+    "startAt": "2025-10-20T01:33:20.803508+00:00",
+    "endAt": "2025-10-20T02:18:20.803508+00:00",
+    "priceCents": 3000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5xf45h",
+    "serviceId": "srv_mgx74z5udel9",
+    "startAt": "2025-10-20T18:03:20.803508+00:00",
+    "endAt": "2025-10-20T18:48:20.803508+00:00",
+    "priceCents": 3000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xn650",
+    "serviceId": "srv_mgx74z5udel9",
+    "startAt": "2025-10-19T22:33:20.803508+00:00",
+    "endAt": "2025-10-19T23:18:20.803508+00:00",
+    "priceCents": 3000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5x615m",
+    "serviceId": "srv_mgx74z5udel9",
+    "startAt": "2025-10-20T02:03:20.803508+00:00",
+    "endAt": "2025-10-20T02:48:20.803508+00:00",
+    "priceCents": 3300,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xiqo5",
+    "serviceId": "srv_mgx74z5udel9",
+    "startAt": "2025-10-20T12:48:20.803508+00:00",
+    "endAt": "2025-10-20T13:33:20.803508+00:00",
+    "priceCents": 2400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5xarhq",
+    "serviceId": "srv_mgx74z5u0h98",
+    "startAt": "2025-10-19T17:48:20.803508+00:00",
+    "endAt": "2025-10-19T18:18:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xvct6",
+    "serviceId": "srv_mgx74z5uk1bg",
+    "startAt": "2025-10-21T00:18:20.803508+00:00",
+    "endAt": "2025-10-21T00:48:20.803508+00:00",
+    "priceCents": 2250,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xolsl",
+    "serviceId": "srv_mgx74z5u80mf",
+    "startAt": "2025-10-19T17:18:20.803508+00:00",
+    "endAt": "2025-10-19T18:03:20.803508+00:00",
+    "priceCents": 3000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5xvfko",
+    "serviceId": "srv_mgx74z5uk1bg",
+    "startAt": "2025-10-19T10:03:20.803508+00:00",
+    "endAt": "2025-10-19T10:33:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5xsi4q",
+    "serviceId": "srv_mgx74z5u38qx",
+    "startAt": "2025-10-19T00:03:20.803508+00:00",
+    "endAt": "2025-10-19T00:23:20.803508+00:00",
+    "priceCents": 1350,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5xpywq",
+    "serviceId": "srv_mgx74z5uk1bg",
+    "startAt": "2025-10-21T01:03:20.803508+00:00",
+    "endAt": "2025-10-21T01:33:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5x6fma",
+    "serviceId": "srv_mgx74z5u38qx",
+    "startAt": "2025-10-19T00:48:20.803508+00:00",
+    "endAt": "2025-10-19T01:08:20.803508+00:00",
+    "priceCents": 1200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5xsnpt",
+    "serviceId": "srv_mgx74z5u80mf",
+    "startAt": "2025-10-19T04:48:20.803508+00:00",
+    "endAt": "2025-10-19T05:33:20.803508+00:00",
+    "priceCents": 2700,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xu6iq",
+    "serviceId": "srv_mgx74z5u38qx",
+    "startAt": "2025-10-20T11:33:20.803508+00:00",
+    "endAt": "2025-10-20T11:53:20.803508+00:00",
+    "priceCents": 1200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xtdxu",
+    "serviceId": "srv_mgx74z5u80mf",
+    "startAt": "2025-10-19T05:33:20.803508+00:00",
+    "endAt": "2025-10-19T06:18:20.803508+00:00",
+    "priceCents": 3000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xk4j2",
+    "serviceId": "srv_mgx74z5uk1bg",
+    "startAt": "2025-10-20T04:18:20.803508+00:00",
+    "endAt": "2025-10-20T04:48:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5xafxb",
+    "serviceId": "srv_mgx74z5u38qx",
+    "startAt": "2025-10-19T05:18:20.803508+00:00",
+    "endAt": "2025-10-19T05:38:20.803508+00:00",
+    "priceCents": 1200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5xp1cs",
+    "serviceId": "srv_mgx74z5uk1bg",
+    "startAt": "2025-10-20T14:33:20.803508+00:00",
+    "endAt": "2025-10-20T15:03:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5yh46y",
+    "serviceId": "srv_mgx74z5u6swe",
+    "startAt": "2025-10-19T22:18:20.803508+00:00",
+    "endAt": "2025-10-19T23:03:20.803508+00:00",
+    "priceCents": 2700,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5y7mmt",
+    "serviceId": "srv_mgx74z5u6swe",
+    "startAt": "2025-10-20T07:48:20.803508+00:00",
+    "endAt": "2025-10-20T08:33:20.803508+00:00",
+    "priceCents": 3300,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5y8k7f",
+    "serviceId": "srv_mgx74z5uusnw",
+    "startAt": "2025-10-21T02:48:20.803508+00:00",
+    "endAt": "2025-10-21T03:18:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5yybza",
+    "serviceId": "srv_mgx74z5uusnw",
+    "startAt": "2025-10-20T11:03:20.803508+00:00",
+    "endAt": "2025-10-20T11:33:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5y3m0v",
+    "serviceId": "srv_mgx74z5u6swe",
+    "startAt": "2025-10-19T16:33:20.803508+00:00",
+    "endAt": "2025-10-19T17:18:20.803508+00:00",
+    "priceCents": 3300,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5yqvqs",
+    "serviceId": "srv_mgx74z5uusnw",
+    "startAt": "2025-10-19T11:03:20.803508+00:00",
+    "endAt": "2025-10-19T11:33:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5yvzw7",
+    "serviceId": "srv_mgx74z5uusnw",
+    "startAt": "2025-10-20T08:48:20.803508+00:00",
+    "endAt": "2025-10-20T09:18:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5ysydr",
+    "serviceId": "srv_mgx74z5uusnw",
+    "startAt": "2025-10-19T15:48:20.803508+00:00",
+    "endAt": "2025-10-19T16:18:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5ysgm5",
+    "serviceId": "srv_mgx74z5uusnw",
+    "startAt": "2025-10-20T21:33:20.803508+00:00",
+    "endAt": "2025-10-20T22:03:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5yra8d",
+    "serviceId": "srv_mgx74z5u6swe",
+    "startAt": "2025-10-19T05:33:20.803508+00:00",
+    "endAt": "2025-10-19T06:18:20.803508+00:00",
+    "priceCents": 3000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5yyaki",
+    "serviceId": "srv_mgx74z5uusnw",
+    "startAt": "2025-10-21T01:18:20.803508+00:00",
+    "endAt": "2025-10-21T01:48:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5y8q3h",
+    "serviceId": "srv_mgx74z5u6swe",
+    "startAt": "2025-10-20T10:48:20.803508+00:00",
+    "endAt": "2025-10-20T11:33:20.803508+00:00",
+    "priceCents": 2400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5yqos4",
+    "serviceId": "srv_mgx74z5uusnw",
+    "startAt": "2025-10-20T23:03:20.803508+00:00",
+    "endAt": "2025-10-20T23:33:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5ytvk0",
+    "serviceId": "srv_mgx74z5uusnw",
+    "startAt": "2025-10-19T23:48:20.803508+00:00",
+    "endAt": "2025-10-20T00:18:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5yhkil",
+    "serviceId": "srv_mgx74z5upr6v",
+    "startAt": "2025-10-19T12:03:20.803508+00:00",
+    "endAt": "2025-10-19T12:23:20.803508+00:00",
+    "priceCents": 1650,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5yst0r",
+    "serviceId": "srv_mgx74z5upr6v",
+    "startAt": "2025-10-18T23:18:20.803508+00:00",
+    "endAt": "2025-10-18T23:38:20.803508+00:00",
+    "priceCents": 1350,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5y3pje",
+    "serviceId": "srv_mgx74z5upr6v",
+    "startAt": "2025-10-19T14:18:20.803508+00:00",
+    "endAt": "2025-10-19T14:38:20.803508+00:00",
+    "priceCents": 1350,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5ydu48",
+    "serviceId": "srv_mgx74z5upr6v",
+    "startAt": "2025-10-20T15:18:20.803508+00:00",
+    "endAt": "2025-10-20T15:38:20.803508+00:00",
+    "priceCents": 1200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5y8u4e",
+    "serviceId": "srv_mgx74z5upr6v",
+    "startAt": "2025-10-21T02:18:20.803508+00:00",
+    "endAt": "2025-10-21T02:38:20.803508+00:00",
+    "priceCents": 1650,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5y94x0",
+    "serviceId": "srv_mgx74z5upr6v",
+    "startAt": "2025-10-19T07:03:20.803508+00:00",
+    "endAt": "2025-10-19T07:23:20.803508+00:00",
+    "priceCents": 1350,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5y687o",
+    "serviceId": "srv_mgx74z5ut13u",
+    "startAt": "2025-10-20T01:03:20.803508+00:00",
+    "endAt": "2025-10-20T01:33:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5ydxwc",
+    "serviceId": "srv_mgx74z5upr6v",
+    "startAt": "2025-10-20T23:18:20.803508+00:00",
+    "endAt": "2025-10-20T23:38:20.803508+00:00",
+    "priceCents": 1500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5ynk8o",
+    "serviceId": "srv_mgx74z5ut13u",
+    "startAt": "2025-10-20T05:18:20.803508+00:00",
+    "endAt": "2025-10-20T05:48:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5y140g",
+    "serviceId": "srv_mgx74z5upr6v",
+    "startAt": "2025-10-19T21:33:20.803508+00:00",
+    "endAt": "2025-10-19T21:53:20.803508+00:00",
+    "priceCents": 1200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5yh5j5",
+    "serviceId": "srv_mgx74z5upr6v",
+    "startAt": "2025-10-20T02:03:20.803508+00:00",
+    "endAt": "2025-10-20T02:23:20.803508+00:00",
+    "priceCents": 1350,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5y4jrf",
+    "serviceId": "srv_mgx74z5ut13u",
+    "startAt": "2025-10-21T01:33:20.803508+00:00",
+    "endAt": "2025-10-21T02:03:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5yt3jb",
+    "serviceId": "srv_mgx74z5ut13u",
+    "startAt": "2025-10-19T13:18:20.803508+00:00",
+    "endAt": "2025-10-19T13:48:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5yh71l",
+    "serviceId": "srv_mgx74z5upr6v",
+    "startAt": "2025-10-20T07:48:20.803508+00:00",
+    "endAt": "2025-10-20T08:08:20.803508+00:00",
+    "priceCents": 1350,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5yvtwn",
+    "serviceId": "srv_mgx74z5uzkox",
+    "startAt": "2025-10-20T07:18:20.803508+00:00",
+    "endAt": "2025-10-20T07:48:20.803508+00:00",
+    "priceCents": 2000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5y67ew",
+    "serviceId": "srv_mgx74z5u948h",
+    "startAt": "2025-10-20T05:33:20.803508+00:00",
+    "endAt": "2025-10-20T06:18:20.803508+00:00",
+    "priceCents": 3000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5yno9b",
+    "serviceId": "srv_mgx74z5u948h",
+    "startAt": "2025-10-19T00:18:20.803508+00:00",
+    "endAt": "2025-10-19T01:03:20.803508+00:00",
+    "priceCents": 3300,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zqkh4",
+    "serviceId": "srv_mgx74z5u948h",
+    "startAt": "2025-10-20T10:03:20.803508+00:00",
+    "endAt": "2025-10-20T10:48:20.803508+00:00",
+    "priceCents": 2700,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zbex2",
+    "serviceId": "srv_mgx74z5uitwr",
+    "startAt": "2025-10-19T21:18:20.803508+00:00",
+    "endAt": "2025-10-19T21:38:20.803508+00:00",
+    "priceCents": 1200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zk5zt",
+    "serviceId": "srv_mgx74z5uzkox",
+    "startAt": "2025-10-19T03:03:20.803508+00:00",
+    "endAt": "2025-10-19T03:33:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5z90q1",
+    "serviceId": "srv_mgx74z5uitwr",
+    "startAt": "2025-10-20T05:33:20.803508+00:00",
+    "endAt": "2025-10-20T05:53:20.803508+00:00",
+    "priceCents": 1350,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5zqv39",
+    "serviceId": "srv_mgx74z5uitwr",
+    "startAt": "2025-10-19T22:48:20.803508+00:00",
+    "endAt": "2025-10-19T23:08:20.803508+00:00",
+    "priceCents": 1350,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zxqnt",
+    "serviceId": "srv_mgx74z5uitwr",
+    "startAt": "2025-10-19T15:18:20.803508+00:00",
+    "endAt": "2025-10-19T15:38:20.803508+00:00",
+    "priceCents": 1350,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5z43r8",
+    "serviceId": "srv_mgx74z5uitwr",
+    "startAt": "2025-10-19T03:18:20.803508+00:00",
+    "endAt": "2025-10-19T03:38:20.803508+00:00",
+    "priceCents": 1650,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zkksh",
+    "serviceId": "srv_mgx74z5u948h",
+    "startAt": "2025-10-19T16:48:20.803508+00:00",
+    "endAt": "2025-10-19T17:33:20.803508+00:00",
+    "priceCents": 3300,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5zdsjt",
+    "serviceId": "srv_mgx74z5uzkox",
+    "startAt": "2025-10-20T03:48:20.803508+00:00",
+    "endAt": "2025-10-20T04:18:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5z2dk9",
+    "serviceId": "srv_mgx74z5uzkox",
+    "startAt": "2025-10-21T04:18:20.803508+00:00",
+    "endAt": "2025-10-21T04:48:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zgb1p",
+    "serviceId": "srv_mgx74z5uzdrs",
+    "startAt": "2025-10-19T21:03:20.803508+00:00",
+    "endAt": "2025-10-19T21:33:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5z8703",
+    "serviceId": "srv_mgx74z5ueqlt",
+    "startAt": "2025-10-20T09:33:20.803508+00:00",
+    "endAt": "2025-10-20T10:18:20.803508+00:00",
+    "priceCents": 2400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5z5g41",
+    "serviceId": "srv_mgx74z5uzdrs",
+    "startAt": "2025-10-19T06:33:20.803508+00:00",
+    "endAt": "2025-10-19T07:03:20.803508+00:00",
+    "priceCents": 2500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5zpv1o",
+    "serviceId": "srv_mgx74z5uzdrs",
+    "startAt": "2025-10-20T03:18:20.803508+00:00",
+    "endAt": "2025-10-20T03:48:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zhhs9",
+    "serviceId": "srv_mgx74z5ueqlt",
+    "startAt": "2025-10-19T09:48:20.803508+00:00",
+    "endAt": "2025-10-19T10:33:20.803508+00:00",
+    "priceCents": 2700,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zqzu3",
+    "serviceId": "srv_mgx74z5uzdrs",
+    "startAt": "2025-10-20T13:33:20.803508+00:00",
+    "endAt": "2025-10-20T14:03:20.803508+00:00",
+    "priceCents": 2750,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zxfy1",
+    "serviceId": "srv_mgx74z5uzdrs",
+    "startAt": "2025-10-19T16:03:20.803508+00:00",
+    "endAt": "2025-10-19T16:33:20.803508+00:00",
+    "priceCents": 2250,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zmwko",
+    "serviceId": "srv_mgx74z5ueqlt",
+    "startAt": "2025-10-21T00:48:20.803508+00:00",
+    "endAt": "2025-10-21T01:33:20.803508+00:00",
+    "priceCents": 3300,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5z1h3u",
+    "serviceId": "srv_mgx74z5ueqlt",
+    "startAt": "2025-10-19T09:18:20.803508+00:00",
+    "endAt": "2025-10-19T10:03:20.803508+00:00",
+    "priceCents": 2700,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zffhy",
+    "serviceId": "srv_mgx74z5ueqlt",
+    "startAt": "2025-10-20T23:33:20.803508+00:00",
+    "endAt": "2025-10-21T00:18:20.803508+00:00",
+    "priceCents": 2400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5zm9cv",
+    "serviceId": "srv_mgx74z5u55r6",
+    "startAt": "2025-10-19T18:48:20.803508+00:00",
+    "endAt": "2025-10-19T19:33:20.803508+00:00",
+    "priceCents": 5200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5zlc8l",
+    "serviceId": "srv_mgx74z5u55r6",
+    "startAt": "2025-10-19T12:18:20.803508+00:00",
+    "endAt": "2025-10-19T13:03:20.803508+00:00",
+    "priceCents": 5200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5z97xn",
+    "serviceId": "srv_mgx74z5u55r6",
+    "startAt": "2025-10-19T09:48:20.803508+00:00",
+    "endAt": "2025-10-19T10:33:20.803508+00:00",
+    "priceCents": 5850,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zjk8a",
+    "serviceId": "srv_mgx74z5urkgn",
+    "startAt": "2025-10-19T22:03:20.803508+00:00",
+    "endAt": "2025-10-19T23:03:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zzmeb",
+    "serviceId": "srv_mgx74z5u55r6",
+    "startAt": "2025-10-20T02:03:20.803508+00:00",
+    "endAt": "2025-10-20T02:48:20.803508+00:00",
+    "priceCents": 5850,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zp2bk",
+    "serviceId": "srv_mgx74z5u9u45",
+    "startAt": "2025-10-19T17:48:20.803508+00:00",
+    "endAt": "2025-10-19T18:18:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zl4fm",
+    "serviceId": "srv_mgx74z5u55r6",
+    "startAt": "2025-10-19T12:18:20.803508+00:00",
+    "endAt": "2025-10-19T13:03:20.803508+00:00",
+    "priceCents": 5850,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5z03os",
+    "serviceId": "srv_mgx74z5urkgn",
+    "startAt": "2025-10-19T13:18:20.803508+00:00",
+    "endAt": "2025-10-19T14:18:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zomyo",
+    "serviceId": "srv_mgx74z5u55r6",
+    "startAt": "2025-10-20T00:33:20.803508+00:00",
+    "endAt": "2025-10-20T01:18:20.803508+00:00",
+    "priceCents": 7150,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5z4lao",
+    "serviceId": "srv_mgx74z5urkgn",
+    "startAt": "2025-10-19T16:18:20.803508+00:00",
+    "endAt": "2025-10-19T17:18:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zlu1r",
+    "serviceId": "srv_mgx74z5urkgn",
+    "startAt": "2025-10-20T20:18:20.803508+00:00",
+    "endAt": "2025-10-20T21:18:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zdcqz",
+    "serviceId": "srv_mgx74z5u6wd9",
+    "startAt": "2025-10-20T01:33:20.803508+00:00",
+    "endAt": "2025-10-20T02:33:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z5zf63p",
+    "serviceId": "srv_mgx74z5u6wd9",
+    "startAt": "2025-10-20T20:48:20.803508+00:00",
+    "endAt": "2025-10-20T21:48:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z5zc61d",
+    "serviceId": "srv_mgx74z5u3ijm",
+    "startAt": "2025-10-19T03:48:20.803508+00:00",
+    "endAt": "2025-10-19T04:33:20.803508+00:00",
+    "priceCents": 7150,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5z5yob",
+    "serviceId": "srv_mgx74z5u3ijm",
+    "startAt": "2025-10-20T05:03:20.803508+00:00",
+    "endAt": "2025-10-20T05:48:20.803508+00:00",
+    "priceCents": 6500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z5z965m",
+    "serviceId": "srv_mgx74z5u3ijm",
+    "startAt": "2025-10-19T14:33:20.803508+00:00",
+    "endAt": "2025-10-19T15:18:20.803508+00:00",
+    "priceCents": 5200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z60uj5p",
+    "serviceId": "srv_mgx74z5u6wd9",
+    "startAt": "2025-10-20T01:03:20.803508+00:00",
+    "endAt": "2025-10-20T02:03:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60badc",
+    "serviceId": "srv_mgx74z5u6wd9",
+    "startAt": "2025-10-19T00:33:20.803508+00:00",
+    "endAt": "2025-10-19T01:33:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60c9gk",
+    "serviceId": "srv_mgx74z5u7qmr",
+    "startAt": "2025-10-19T01:03:20.803508+00:00",
+    "endAt": "2025-10-19T01:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60zkhx",
+    "serviceId": "srv_mgx74z5u6wd9",
+    "startAt": "2025-10-21T01:18:20.803508+00:00",
+    "endAt": "2025-10-21T02:18:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z609666",
+    "serviceId": "srv_mgx74z5u3ijm",
+    "startAt": "2025-10-18T23:03:20.803508+00:00",
+    "endAt": "2025-10-18T23:48:20.803508+00:00",
+    "priceCents": 5850,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60ovu2",
+    "serviceId": "srv_mgx74z5u3ijm",
+    "startAt": "2025-10-20T08:48:20.803508+00:00",
+    "endAt": "2025-10-20T09:33:20.803508+00:00",
+    "priceCents": 6500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z60n1lj",
+    "serviceId": "srv_mgx74z5u1h1b",
+    "startAt": "2025-10-19T13:18:20.803508+00:00",
+    "endAt": "2025-10-19T14:18:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z605csd",
+    "serviceId": "srv_mgx74z5u1h1b",
+    "startAt": "2025-10-20T02:48:20.803508+00:00",
+    "endAt": "2025-10-20T03:48:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z603wa4",
+    "serviceId": "srv_mgx74z5uerzz",
+    "startAt": "2025-10-20T22:03:20.803508+00:00",
+    "endAt": "2025-10-20T22:48:20.803508+00:00",
+    "priceCents": 6500,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z603f2t",
+    "serviceId": "srv_mgx74z5u1h1b",
+    "startAt": "2025-10-18T23:33:20.803508+00:00",
+    "endAt": "2025-10-19T00:33:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60wp71",
+    "serviceId": "srv_mgx74z5uzn7h",
+    "startAt": "2025-10-19T21:33:20.803508+00:00",
+    "endAt": "2025-10-19T22:03:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60uzmm",
+    "serviceId": "srv_mgx74z5uzn7h",
+    "startAt": "2025-10-19T22:03:20.803508+00:00",
+    "endAt": "2025-10-19T22:33:20.803508+00:00",
+    "priceCents": 4050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60i1o3",
+    "serviceId": "srv_mgx74z5uzn7h",
+    "startAt": "2025-10-21T03:48:20.803508+00:00",
+    "endAt": "2025-10-21T04:18:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z60u8b0",
+    "serviceId": "srv_mgx74z5u1h1b",
+    "startAt": "2025-10-20T00:18:20.803508+00:00",
+    "endAt": "2025-10-20T01:18:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z60xp60",
+    "serviceId": "srv_mgx74z5uerzz",
+    "startAt": "2025-10-20T03:48:20.803508+00:00",
+    "endAt": "2025-10-20T04:33:20.803508+00:00",
+    "priceCents": 6500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60j6u4",
+    "serviceId": "srv_mgx74z5u1h1b",
+    "startAt": "2025-10-20T16:48:20.803508+00:00",
+    "endAt": "2025-10-20T17:48:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60jc9x",
+    "serviceId": "srv_mgx74z5uerzz",
+    "startAt": "2025-10-19T15:48:20.803508+00:00",
+    "endAt": "2025-10-19T16:33:20.803508+00:00",
+    "priceCents": 6500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z60o2cl",
+    "serviceId": "srv_mgx74z5uerzz",
+    "startAt": "2025-10-19T16:48:20.803508+00:00",
+    "endAt": "2025-10-19T17:33:20.803508+00:00",
+    "priceCents": 7150,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z608gzb",
+    "serviceId": "srv_mgx74z5u5xdo",
+    "startAt": "2025-10-20T09:33:20.803508+00:00",
+    "endAt": "2025-10-20T10:03:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60jqln",
+    "serviceId": "srv_mgx74z5u5xdo",
+    "startAt": "2025-10-19T19:18:20.803508+00:00",
+    "endAt": "2025-10-19T19:48:20.803508+00:00",
+    "priceCents": 4050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60u34u",
+    "serviceId": "srv_mgx74z5up491",
+    "startAt": "2025-10-20T11:48:20.803508+00:00",
+    "endAt": "2025-10-20T12:48:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60xjq3",
+    "serviceId": "srv_mgx74z5um0b9",
+    "startAt": "2025-10-20T06:18:20.803508+00:00",
+    "endAt": "2025-10-20T07:03:20.803508+00:00",
+    "priceCents": 7150,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z60lbk3",
+    "serviceId": "srv_mgx74z5up491",
+    "startAt": "2025-10-20T19:33:20.803508+00:00",
+    "endAt": "2025-10-20T20:33:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z60ruo0",
+    "serviceId": "srv_mgx74z5um0b9",
+    "startAt": "2025-10-19T07:03:20.803508+00:00",
+    "endAt": "2025-10-19T07:48:20.803508+00:00",
+    "priceCents": 7150,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60kxc1",
+    "serviceId": "srv_mgx74z5um0b9",
+    "startAt": "2025-10-20T08:33:20.803508+00:00",
+    "endAt": "2025-10-20T09:18:20.803508+00:00",
+    "priceCents": 5200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z60jitx",
+    "serviceId": "srv_mgx74z5um0b9",
+    "startAt": "2025-10-19T22:48:20.803508+00:00",
+    "endAt": "2025-10-19T23:33:20.803508+00:00",
+    "priceCents": 5200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60lvmc",
+    "serviceId": "srv_mgx74z5u5xdo",
+    "startAt": "2025-10-20T07:48:20.803508+00:00",
+    "endAt": "2025-10-20T08:18:20.803508+00:00",
+    "priceCents": 4050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z608d1w",
+    "serviceId": "srv_mgx74z5um0b9",
+    "startAt": "2025-10-21T02:03:20.803508+00:00",
+    "endAt": "2025-10-21T02:48:20.803508+00:00",
+    "priceCents": 5850,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60ogy3",
+    "serviceId": "srv_mgx74z5um0b9",
+    "startAt": "2025-10-19T05:48:20.803508+00:00",
+    "endAt": "2025-10-19T06:33:20.803508+00:00",
+    "priceCents": 5200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z60d0jq",
+    "serviceId": "srv_mgx74z5u39a3",
+    "startAt": "2025-10-19T05:48:20.803508+00:00",
+    "endAt": "2025-10-19T06:33:20.803508+00:00",
+    "priceCents": 5850,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60q6w7",
+    "serviceId": "srv_mgx74z5u5hsr",
+    "startAt": "2025-10-19T04:48:20.803508+00:00",
+    "endAt": "2025-10-19T05:18:20.803508+00:00",
+    "priceCents": 4050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60gxcm",
+    "serviceId": "srv_mgx74z5u39a3",
+    "startAt": "2025-10-19T05:18:20.803508+00:00",
+    "endAt": "2025-10-19T06:03:20.803508+00:00",
+    "priceCents": 5850,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60dulf",
+    "serviceId": "srv_mgx74z5u5hsr",
+    "startAt": "2025-10-20T00:48:20.803508+00:00",
+    "endAt": "2025-10-20T01:18:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6095w4",
+    "serviceId": "srv_mgx74z5unjk5",
+    "startAt": "2025-10-18T22:18:20.803508+00:00",
+    "endAt": "2025-10-18T23:18:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z60inkr",
+    "serviceId": "srv_mgx74z5u39a3",
+    "startAt": "2025-10-19T01:18:20.803508+00:00",
+    "endAt": "2025-10-19T02:03:20.803508+00:00",
+    "priceCents": 5200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z60nlb7",
+    "serviceId": "srv_mgx74z5u39a3",
+    "startAt": "2025-10-20T02:48:20.803508+00:00",
+    "endAt": "2025-10-20T03:33:20.803508+00:00",
+    "priceCents": 5200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z60a6qu",
+    "serviceId": "srv_mgx74z5unjk5",
+    "startAt": "2025-10-19T05:33:20.803508+00:00",
+    "endAt": "2025-10-19T06:33:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z607qs2",
+    "serviceId": "srv_mgx74z5unjk5",
+    "startAt": "2025-10-20T17:33:20.803508+00:00",
+    "endAt": "2025-10-20T18:33:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60lxx6",
+    "serviceId": "srv_mgx74z5unjk5",
+    "startAt": "2025-10-19T14:48:20.803508+00:00",
+    "endAt": "2025-10-19T15:48:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z609z30",
+    "serviceId": "srv_mgx74z5u39a3",
+    "startAt": "2025-10-20T16:33:20.803508+00:00",
+    "endAt": "2025-10-20T17:18:20.803508+00:00",
+    "priceCents": 7150,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z604vkf",
+    "serviceId": "srv_mgx74z5u5hsr",
+    "startAt": "2025-10-19T09:03:20.803508+00:00",
+    "endAt": "2025-10-19T09:33:20.803508+00:00",
+    "priceCents": 4050,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z605vsk",
+    "serviceId": "srv_mgx74z5unjk5",
+    "startAt": "2025-10-19T04:03:20.803508+00:00",
+    "endAt": "2025-10-19T05:03:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z602zz0",
+    "serviceId": "srv_mgx74z5umr7i",
+    "startAt": "2025-10-20T21:18:20.803508+00:00",
+    "endAt": "2025-10-20T22:18:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z60tln3",
+    "serviceId": "srv_mgx74z5uhdw7",
+    "startAt": "2025-10-21T00:48:20.803508+00:00",
+    "endAt": "2025-10-21T01:33:20.803508+00:00",
+    "priceCents": 5850,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z610lmi",
+    "serviceId": "srv_mgx74z5umr7i",
+    "startAt": "2025-10-19T05:18:20.803508+00:00",
+    "endAt": "2025-10-19T06:18:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z61c7pd",
+    "serviceId": "srv_mgx74z5uhdw7",
+    "startAt": "2025-10-21T03:03:20.803508+00:00",
+    "endAt": "2025-10-21T03:48:20.803508+00:00",
+    "priceCents": 5850,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61q27s",
+    "serviceId": "srv_mgx74z5umr7i",
+    "startAt": "2025-10-21T02:33:20.803508+00:00",
+    "endAt": "2025-10-21T03:33:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z61wbb8",
+    "serviceId": "srv_mgx74z5uvxj2",
+    "startAt": "2025-10-19T02:03:20.803508+00:00",
+    "endAt": "2025-10-19T02:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z61is88",
+    "serviceId": "srv_mgx74z5uvxj2",
+    "startAt": "2025-10-20T22:33:20.803508+00:00",
+    "endAt": "2025-10-20T23:03:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61zdcd",
+    "serviceId": "srv_mgx74z5umr7i",
+    "startAt": "2025-10-20T12:48:20.803508+00:00",
+    "endAt": "2025-10-20T13:48:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z61zuqy",
+    "serviceId": "srv_mgx74z5uvxj2",
+    "startAt": "2025-10-20T14:48:20.803508+00:00",
+    "endAt": "2025-10-20T15:18:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z61ig93",
+    "serviceId": "srv_mgx74z5uhdw7",
+    "startAt": "2025-10-19T01:18:20.803508+00:00",
+    "endAt": "2025-10-19T02:03:20.803508+00:00",
+    "priceCents": 5850,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z616zez",
+    "serviceId": "srv_mgx74z5u0djd",
+    "startAt": "2025-10-20T22:18:20.803508+00:00",
+    "endAt": "2025-10-20T23:18:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61ooqk",
+    "serviceId": "srv_mgx74z5u8gik",
+    "startAt": "2025-10-19T13:48:20.803508+00:00",
+    "endAt": "2025-10-19T14:18:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z61cisb",
+    "serviceId": "srv_mgx74z5u0djd",
+    "startAt": "2025-10-20T14:48:20.803508+00:00",
+    "endAt": "2025-10-20T15:48:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z61ag0l",
+    "serviceId": "srv_mgx74z5u0djd",
+    "startAt": "2025-10-20T01:48:20.803508+00:00",
+    "endAt": "2025-10-20T02:48:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z613jvz",
+    "serviceId": "srv_mgx74z5u8gik",
+    "startAt": "2025-10-20T19:33:20.803508+00:00",
+    "endAt": "2025-10-20T20:03:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61x4wa",
+    "serviceId": "srv_mgx74z5u8gik",
+    "startAt": "2025-10-19T02:48:20.803508+00:00",
+    "endAt": "2025-10-19T03:18:20.803508+00:00",
+    "priceCents": 4050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61dlln",
+    "serviceId": "srv_mgx74z5u8gik",
+    "startAt": "2025-10-20T09:03:20.803508+00:00",
+    "endAt": "2025-10-20T09:33:20.803508+00:00",
+    "priceCents": 4050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z617msf",
+    "serviceId": "srv_mgx74z5u8gik",
+    "startAt": "2025-10-19T12:03:20.803508+00:00",
+    "endAt": "2025-10-19T12:33:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z611xnw",
+    "serviceId": "srv_mgx74z5u0djd",
+    "startAt": "2025-10-19T22:48:20.803508+00:00",
+    "endAt": "2025-10-19T23:48:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61kw56",
+    "serviceId": "srv_mgx74z5u8gik",
+    "startAt": "2025-10-20T05:18:20.803508+00:00",
+    "endAt": "2025-10-20T05:48:20.803508+00:00",
+    "priceCents": 4050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61dr6d",
+    "serviceId": "srv_mgx74z5u0djd",
+    "startAt": "2025-10-20T23:18:20.803508+00:00",
+    "endAt": "2025-10-21T00:18:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z611tl2",
+    "serviceId": "srv_mgx74z5u8gik",
+    "startAt": "2025-10-20T15:18:20.803508+00:00",
+    "endAt": "2025-10-20T15:48:20.803508+00:00",
+    "priceCents": 4050,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z61rk1o",
+    "serviceId": "srv_mgx74z5urb8o",
+    "startAt": "2025-10-19T15:03:20.803508+00:00",
+    "endAt": "2025-10-19T15:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6124mw",
+    "serviceId": "srv_mgx74z5urb8o",
+    "startAt": "2025-10-20T08:18:20.803508+00:00",
+    "endAt": "2025-10-20T08:48:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61sop1",
+    "serviceId": "srv_mgx74z5urb8o",
+    "startAt": "2025-10-19T16:48:20.803508+00:00",
+    "endAt": "2025-10-19T17:18:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61yi9j",
+    "serviceId": "srv_mgx74z5uyewz",
+    "startAt": "2025-10-19T08:33:20.803508+00:00",
+    "endAt": "2025-10-19T09:33:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61pyz5",
+    "serviceId": "srv_mgx74z5uyewz",
+    "startAt": "2025-10-18T22:33:20.803508+00:00",
+    "endAt": "2025-10-18T23:33:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61abeg",
+    "serviceId": "srv_mgx74z5uyewz",
+    "startAt": "2025-10-19T11:48:20.803508+00:00",
+    "endAt": "2025-10-19T12:48:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61ztz4",
+    "serviceId": "srv_mgx74z5urb8o",
+    "startAt": "2025-10-19T05:33:20.803508+00:00",
+    "endAt": "2025-10-19T06:03:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z616i4c",
+    "serviceId": "srv_mgx74z5uyewz",
+    "startAt": "2025-10-19T19:48:20.803508+00:00",
+    "endAt": "2025-10-19T20:48:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z619nkr",
+    "serviceId": "srv_mgx74z5uyewz",
+    "startAt": "2025-10-20T06:03:20.803508+00:00",
+    "endAt": "2025-10-20T07:03:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61rhn8",
+    "serviceId": "srv_mgx74z5urb8o",
+    "startAt": "2025-10-18T22:48:20.803508+00:00",
+    "endAt": "2025-10-18T23:18:20.803508+00:00",
+    "priceCents": 4050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61vz6b",
+    "serviceId": "srv_mgx74z5uyewz",
+    "startAt": "2025-10-20T05:03:20.803508+00:00",
+    "endAt": "2025-10-20T06:03:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61ycg4",
+    "serviceId": "srv_mgx74z5urb8o",
+    "startAt": "2025-10-21T03:48:20.803508+00:00",
+    "endAt": "2025-10-21T04:18:20.803508+00:00",
+    "priceCents": 4050,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z619npe",
+    "serviceId": "srv_mgx74z5urb8o",
+    "startAt": "2025-10-20T09:48:20.803508+00:00",
+    "endAt": "2025-10-20T10:18:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61pnw0",
+    "serviceId": "srv_mgx74z5uyewz",
+    "startAt": "2025-10-19T07:03:20.803508+00:00",
+    "endAt": "2025-10-19T08:03:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61sab9",
+    "serviceId": "srv_mgx74z5vi7p1",
+    "startAt": "2025-10-20T17:33:20.803508+00:00",
+    "endAt": "2025-10-20T18:18:20.803508+00:00",
+    "priceCents": 5850,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z612dxn",
+    "serviceId": "srv_mgx74z5vkrpq",
+    "startAt": "2025-10-19T12:18:20.803508+00:00",
+    "endAt": "2025-10-19T13:18:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61k6xh",
+    "serviceId": "srv_mgx74z5vkrpq",
+    "startAt": "2025-10-20T05:03:20.803508+00:00",
+    "endAt": "2025-10-20T06:03:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z61expm",
+    "serviceId": "srv_mgx74z5vi7p1",
+    "startAt": "2025-10-20T15:18:20.803508+00:00",
+    "endAt": "2025-10-20T16:03:20.803508+00:00",
+    "priceCents": 7150,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61w8sa",
+    "serviceId": "srv_mgx74z5vkrpq",
+    "startAt": "2025-10-20T06:03:20.803508+00:00",
+    "endAt": "2025-10-20T07:03:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z61l7uu",
+    "serviceId": "srv_mgx74z5vkrpq",
+    "startAt": "2025-10-20T12:18:20.803508+00:00",
+    "endAt": "2025-10-20T13:18:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6193ag",
+    "serviceId": "srv_mgx74z5ur1t4",
+    "startAt": "2025-10-20T10:33:20.803508+00:00",
+    "endAt": "2025-10-20T11:03:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61i5ds",
+    "serviceId": "srv_mgx74z5ur1t4",
+    "startAt": "2025-10-20T08:03:20.803508+00:00",
+    "endAt": "2025-10-20T08:33:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z619bwg",
+    "serviceId": "srv_mgx74z5vi7p1",
+    "startAt": "2025-10-20T05:03:20.803508+00:00",
+    "endAt": "2025-10-20T05:48:20.803508+00:00",
+    "priceCents": 7150,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61eoo8",
+    "serviceId": "srv_mgx74z5ur1t4",
+    "startAt": "2025-10-20T20:48:20.803508+00:00",
+    "endAt": "2025-10-20T21:18:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z61yw75",
+    "serviceId": "srv_mgx74z5ur1t4",
+    "startAt": "2025-10-19T10:03:20.803508+00:00",
+    "endAt": "2025-10-19T10:33:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z61om6r",
+    "serviceId": "srv_mgx74z5v5r6f",
+    "startAt": "2025-10-20T19:03:20.803508+00:00",
+    "endAt": "2025-10-20T19:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z61iyqg",
+    "serviceId": "srv_mgx74z5v5r6f",
+    "startAt": "2025-10-19T15:03:20.803508+00:00",
+    "endAt": "2025-10-19T15:33:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z61qn69",
+    "serviceId": "srv_mgx74z5vrpx5",
+    "startAt": "2025-10-20T15:33:20.803508+00:00",
+    "endAt": "2025-10-20T16:33:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z61dqzz",
+    "serviceId": "srv_mgx74z5vrpx5",
+    "startAt": "2025-10-20T13:48:20.803508+00:00",
+    "endAt": "2025-10-20T14:48:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z62esa6",
+    "serviceId": "srv_mgx74z5vpjle",
+    "startAt": "2025-10-19T21:03:20.803508+00:00",
+    "endAt": "2025-10-19T21:48:20.803508+00:00",
+    "priceCents": 5200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z62ur54",
+    "serviceId": "srv_mgx74z5vrpx5",
+    "startAt": "2025-10-20T14:18:20.803508+00:00",
+    "endAt": "2025-10-20T15:18:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z62bvs0",
+    "serviceId": "srv_mgx74z5vpjle",
+    "startAt": "2025-10-20T07:48:20.803508+00:00",
+    "endAt": "2025-10-20T08:33:20.803508+00:00",
+    "priceCents": 5200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z62nf0a",
+    "serviceId": "srv_mgx74z5vpjle",
+    "startAt": "2025-10-20T06:33:20.803508+00:00",
+    "endAt": "2025-10-20T07:18:20.803508+00:00",
+    "priceCents": 5200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62pcx0",
+    "serviceId": "srv_mgx74z5v5r6f",
+    "startAt": "2025-10-19T16:03:20.803508+00:00",
+    "endAt": "2025-10-19T16:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62zmmh",
+    "serviceId": "srv_mgx74z5vpjle",
+    "startAt": "2025-10-20T19:18:20.803508+00:00",
+    "endAt": "2025-10-20T20:03:20.803508+00:00",
+    "priceCents": 6500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z62l7wg",
+    "serviceId": "srv_mgx74z5vrpx5",
+    "startAt": "2025-10-20T06:18:20.803508+00:00",
+    "endAt": "2025-10-20T07:18:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62uflt",
+    "serviceId": "srv_mgx74z5vpjle",
+    "startAt": "2025-10-21T02:48:20.803508+00:00",
+    "endAt": "2025-10-21T03:33:20.803508+00:00",
+    "priceCents": 7150,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z62kqmx",
+    "serviceId": "srv_mgx74z5v9gcb",
+    "startAt": "2025-10-21T00:33:20.803508+00:00",
+    "endAt": "2025-10-21T01:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z62ukmd",
+    "serviceId": "srv_mgx74z5v9gcb",
+    "startAt": "2025-10-20T21:48:20.803508+00:00",
+    "endAt": "2025-10-20T22:48:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62vcff",
+    "serviceId": "srv_mgx74z5v9gcb",
+    "startAt": "2025-10-19T15:33:20.803508+00:00",
+    "endAt": "2025-10-19T16:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z620y2u",
+    "serviceId": "srv_mgx74z5vxwcm",
+    "startAt": "2025-10-19T05:18:20.803508+00:00",
+    "endAt": "2025-10-19T06:03:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z623xru",
+    "serviceId": "srv_mgx74z5v9gcb",
+    "startAt": "2025-10-19T16:03:20.803508+00:00",
+    "endAt": "2025-10-19T17:03:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62t7xt",
+    "serviceId": "srv_mgx74z5v9gcb",
+    "startAt": "2025-10-19T00:48:20.803508+00:00",
+    "endAt": "2025-10-19T01:48:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62o6kn",
+    "serviceId": "srv_mgx74z5vm9f6",
+    "startAt": "2025-10-20T18:18:20.803508+00:00",
+    "endAt": "2025-10-20T19:08:20.803508+00:00",
+    "priceCents": 5400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62huln",
+    "serviceId": "srv_mgx74z5v9gcb",
+    "startAt": "2025-10-19T14:33:20.803508+00:00",
+    "endAt": "2025-10-19T15:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62nphs",
+    "serviceId": "srv_mgx74z5vxwcm",
+    "startAt": "2025-10-20T06:03:20.803508+00:00",
+    "endAt": "2025-10-20T06:48:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z626hfz",
+    "serviceId": "srv_mgx74z5vxwcm",
+    "startAt": "2025-10-20T10:33:20.803508+00:00",
+    "endAt": "2025-10-20T11:18:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z62vjgz",
+    "serviceId": "srv_mgx74z5vm9f6",
+    "startAt": "2025-10-20T05:33:20.803508+00:00",
+    "endAt": "2025-10-20T06:23:20.803508+00:00",
+    "priceCents": 6000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z62gnnz",
+    "serviceId": "srv_mgx74z5vm9f6",
+    "startAt": "2025-10-20T04:18:20.803508+00:00",
+    "endAt": "2025-10-20T05:08:20.803508+00:00",
+    "priceCents": 6000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z627mcy",
+    "serviceId": "srv_mgx74z5v9gcb",
+    "startAt": "2025-10-21T01:48:20.803508+00:00",
+    "endAt": "2025-10-21T02:48:20.803508+00:00",
+    "priceCents": 6050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62s5oi",
+    "serviceId": "srv_mgx74z5vkk9s",
+    "startAt": "2025-10-19T20:48:20.803508+00:00",
+    "endAt": "2025-10-19T21:33:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z62ekki",
+    "serviceId": "srv_mgx74z5vkk9s",
+    "startAt": "2025-10-21T04:18:20.803508+00:00",
+    "endAt": "2025-10-21T05:03:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62nxsq",
+    "serviceId": "srv_mgx74z5vkk9s",
+    "startAt": "2025-10-20T13:03:20.803508+00:00",
+    "endAt": "2025-10-20T13:48:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62g5da",
+    "serviceId": "srv_mgx74z5vbvts",
+    "startAt": "2025-10-19T09:18:20.803508+00:00",
+    "endAt": "2025-10-19T10:08:20.803508+00:00",
+    "priceCents": 5400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62z31p",
+    "serviceId": "srv_mgx74z5vkk9s",
+    "startAt": "2025-10-19T04:18:20.803508+00:00",
+    "endAt": "2025-10-19T05:03:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62ojef",
+    "serviceId": "srv_mgx74z5vbvts",
+    "startAt": "2025-10-19T04:48:20.803508+00:00",
+    "endAt": "2025-10-19T05:38:20.803508+00:00",
+    "priceCents": 4800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6212mk",
+    "serviceId": "srv_mgx74z5vkk9s",
+    "startAt": "2025-10-20T02:33:20.803508+00:00",
+    "endAt": "2025-10-20T03:18:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62ybtr",
+    "serviceId": "srv_mgx74z5vkk9s",
+    "startAt": "2025-10-20T03:48:20.803508+00:00",
+    "endAt": "2025-10-20T04:33:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62sjnq",
+    "serviceId": "srv_mgx74z5vkk9s",
+    "startAt": "2025-10-19T21:03:20.803508+00:00",
+    "endAt": "2025-10-19T21:48:20.803508+00:00",
+    "priceCents": 3200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62miuy",
+    "serviceId": "srv_mgx74z5vkk9s",
+    "startAt": "2025-10-19T07:48:20.803508+00:00",
+    "endAt": "2025-10-19T08:33:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62j0ri",
+    "serviceId": "srv_mgx74z5vbvts",
+    "startAt": "2025-10-20T19:03:20.803508+00:00",
+    "endAt": "2025-10-20T19:53:20.803508+00:00",
+    "priceCents": 6600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z62oeg5",
+    "serviceId": "srv_mgx74z5vw4jt",
+    "startAt": "2025-10-19T23:33:20.803508+00:00",
+    "endAt": "2025-10-20T00:23:20.803508+00:00",
+    "priceCents": 6600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62iyhq",
+    "serviceId": "srv_mgx74z5vw4jt",
+    "startAt": "2025-10-20T14:33:20.803508+00:00",
+    "endAt": "2025-10-20T15:23:20.803508+00:00",
+    "priceCents": 6000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z627tsh",
+    "serviceId": "srv_mgx74z5vjh3m",
+    "startAt": "2025-10-21T04:18:20.803508+00:00",
+    "endAt": "2025-10-21T05:18:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62y1b6",
+    "serviceId": "srv_mgx74z5vw4jt",
+    "startAt": "2025-10-19T10:48:20.803508+00:00",
+    "endAt": "2025-10-19T11:38:20.803508+00:00",
+    "priceCents": 4800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62e590",
+    "serviceId": "srv_mgx74z5vw4jt",
+    "startAt": "2025-10-19T15:33:20.803508+00:00",
+    "endAt": "2025-10-19T16:23:20.803508+00:00",
+    "priceCents": 4800,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z623hp4",
+    "serviceId": "srv_mgx74z5vw4jt",
+    "startAt": "2025-10-20T18:18:20.803508+00:00",
+    "endAt": "2025-10-20T19:08:20.803508+00:00",
+    "priceCents": 5400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62o07f",
+    "serviceId": "srv_mgx74z5vw4jt",
+    "startAt": "2025-10-19T09:33:20.803508+00:00",
+    "endAt": "2025-10-19T10:23:20.803508+00:00",
+    "priceCents": 6000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z62ka2z",
+    "serviceId": "srv_mgx74z5vjh3m",
+    "startAt": "2025-10-20T05:03:20.803508+00:00",
+    "endAt": "2025-10-20T06:03:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z62rk0a",
+    "serviceId": "srv_mgx74z5vjh3m",
+    "startAt": "2025-10-20T16:33:20.803508+00:00",
+    "endAt": "2025-10-20T17:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z62fav5",
+    "serviceId": "srv_mgx74z5vw4jt",
+    "startAt": "2025-10-20T18:33:20.803508+00:00",
+    "endAt": "2025-10-20T19:23:20.803508+00:00",
+    "priceCents": 4800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z62y68v",
+    "serviceId": "srv_mgx74z5vw4jt",
+    "startAt": "2025-10-20T22:18:20.803508+00:00",
+    "endAt": "2025-10-20T23:08:20.803508+00:00",
+    "priceCents": 5400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63c1om",
+    "serviceId": "srv_mgx74z5vjh3m",
+    "startAt": "2025-10-19T18:48:20.803508+00:00",
+    "endAt": "2025-10-19T19:48:20.803508+00:00",
+    "priceCents": 6050,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z63thza",
+    "serviceId": "srv_mgx74z5vw4jt",
+    "startAt": "2025-10-19T10:33:20.803508+00:00",
+    "endAt": "2025-10-19T11:23:20.803508+00:00",
+    "priceCents": 6000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63ynt0",
+    "serviceId": "srv_mgx74z5vjh3m",
+    "startAt": "2025-10-20T07:33:20.803508+00:00",
+    "endAt": "2025-10-20T08:33:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63fk4y",
+    "serviceId": "srv_mgx74z5votz2",
+    "startAt": "2025-10-20T20:33:20.803508+00:00",
+    "endAt": "2025-10-20T21:23:20.803508+00:00",
+    "priceCents": 6000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z636x42",
+    "serviceId": "srv_mgx74z5votz2",
+    "startAt": "2025-10-19T19:03:20.803508+00:00",
+    "endAt": "2025-10-19T19:53:20.803508+00:00",
+    "priceCents": 4800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63c62o",
+    "serviceId": "srv_mgx74z5vi45w",
+    "startAt": "2025-10-19T09:18:20.803508+00:00",
+    "endAt": "2025-10-19T10:03:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6340dv",
+    "serviceId": "srv_mgx74z5vscku",
+    "startAt": "2025-10-20T05:48:20.803508+00:00",
+    "endAt": "2025-10-20T06:48:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63n3hx",
+    "serviceId": "srv_mgx74z5vi45w",
+    "startAt": "2025-10-20T03:18:20.803508+00:00",
+    "endAt": "2025-10-20T04:03:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63dx66",
+    "serviceId": "srv_mgx74z5vi45w",
+    "startAt": "2025-10-20T20:18:20.803508+00:00",
+    "endAt": "2025-10-20T21:03:20.803508+00:00",
+    "priceCents": 3200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z636mtr",
+    "serviceId": "srv_mgx74z5vi45w",
+    "startAt": "2025-10-20T10:33:20.803508+00:00",
+    "endAt": "2025-10-20T11:18:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63aysm",
+    "serviceId": "srv_mgx74z5vi45w",
+    "startAt": "2025-10-19T08:33:20.803508+00:00",
+    "endAt": "2025-10-19T09:18:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63rkfy",
+    "serviceId": "srv_mgx74z5votz2",
+    "startAt": "2025-10-20T09:48:20.803508+00:00",
+    "endAt": "2025-10-20T10:38:20.803508+00:00",
+    "priceCents": 6600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z63x8j0",
+    "serviceId": "srv_mgx74z5vi45w",
+    "startAt": "2025-10-20T20:18:20.803508+00:00",
+    "endAt": "2025-10-20T21:03:20.803508+00:00",
+    "priceCents": 3200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z63m98g",
+    "serviceId": "srv_mgx74z5vscku",
+    "startAt": "2025-10-20T10:33:20.803508+00:00",
+    "endAt": "2025-10-20T11:33:20.803508+00:00",
+    "priceCents": 6050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z635pd4",
+    "serviceId": "srv_mgx74z5votz2",
+    "startAt": "2025-10-20T11:33:20.803508+00:00",
+    "endAt": "2025-10-20T12:23:20.803508+00:00",
+    "priceCents": 6000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63j2o5",
+    "serviceId": "srv_mgx74z5vscku",
+    "startAt": "2025-10-19T19:03:20.803508+00:00",
+    "endAt": "2025-10-19T20:03:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63q7e0",
+    "serviceId": "srv_mgx74z5vi45w",
+    "startAt": "2025-10-20T23:48:20.803508+00:00",
+    "endAt": "2025-10-21T00:33:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63kwe9",
+    "serviceId": "srv_mgx74z5v6l5w",
+    "startAt": "2025-10-19T17:18:20.803508+00:00",
+    "endAt": "2025-10-19T18:03:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63erip",
+    "serviceId": "srv_mgx74z5v6l5w",
+    "startAt": "2025-10-20T18:03:20.803508+00:00",
+    "endAt": "2025-10-20T18:48:20.803508+00:00",
+    "priceCents": 3200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z638uzc",
+    "serviceId": "srv_mgx74z5vb2fs",
+    "startAt": "2025-10-19T04:03:20.803508+00:00",
+    "endAt": "2025-10-19T05:03:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63f4hr",
+    "serviceId": "srv_mgx74z5vb2fs",
+    "startAt": "2025-10-19T23:33:20.803508+00:00",
+    "endAt": "2025-10-20T00:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63rnmc",
+    "serviceId": "srv_mgx74z5vb2fs",
+    "startAt": "2025-10-20T17:18:20.803508+00:00",
+    "endAt": "2025-10-20T18:18:20.803508+00:00",
+    "priceCents": 6050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63ms9s",
+    "serviceId": "srv_mgx74z5vb2fs",
+    "startAt": "2025-10-19T20:18:20.803508+00:00",
+    "endAt": "2025-10-19T21:18:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z630l7j",
+    "serviceId": "srv_mgx74z5v6l5w",
+    "startAt": "2025-10-19T13:33:20.803508+00:00",
+    "endAt": "2025-10-19T14:18:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z631ox2",
+    "serviceId": "srv_mgx74z5vb2fs",
+    "startAt": "2025-10-20T10:03:20.803508+00:00",
+    "endAt": "2025-10-20T11:03:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z633t04",
+    "serviceId": "srv_mgx74z5vb2fs",
+    "startAt": "2025-10-19T08:18:20.803508+00:00",
+    "endAt": "2025-10-19T09:18:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6361io",
+    "serviceId": "srv_mgx74z5vb2fs",
+    "startAt": "2025-10-20T16:48:20.803508+00:00",
+    "endAt": "2025-10-20T17:48:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z63z12f",
+    "serviceId": "srv_mgx74z5v6l5w",
+    "startAt": "2025-10-19T09:33:20.803508+00:00",
+    "endAt": "2025-10-19T10:18:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z631mmm",
+    "serviceId": "srv_mgx74z5vb2fs",
+    "startAt": "2025-10-19T20:03:20.803508+00:00",
+    "endAt": "2025-10-19T21:03:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z63o1zh",
+    "serviceId": "srv_mgx74z5vb2fs",
+    "startAt": "2025-10-19T13:48:20.803508+00:00",
+    "endAt": "2025-10-19T14:48:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z63rjls",
+    "serviceId": "srv_mgx74z5vl6zo",
+    "startAt": "2025-10-20T17:33:20.803508+00:00",
+    "endAt": "2025-10-20T18:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z638jx8",
+    "serviceId": "srv_mgx74z5vl6zo",
+    "startAt": "2025-10-19T06:33:20.803508+00:00",
+    "endAt": "2025-10-19T07:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z641kqq",
+    "serviceId": "srv_mgx74z5vl6zo",
+    "startAt": "2025-10-19T05:33:20.803508+00:00",
+    "endAt": "2025-10-19T06:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6468b1",
+    "serviceId": "srv_mgx74z5vl3l4",
+    "startAt": "2025-10-20T02:48:20.803508+00:00",
+    "endAt": "2025-10-20T03:33:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64ee1m",
+    "serviceId": "srv_mgx74z5vl6zo",
+    "startAt": "2025-10-20T13:48:20.803508+00:00",
+    "endAt": "2025-10-20T14:48:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64nbov",
+    "serviceId": "srv_mgx74z5vnioq",
+    "startAt": "2025-10-20T19:03:20.803508+00:00",
+    "endAt": "2025-10-20T19:53:20.803508+00:00",
+    "priceCents": 6600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64q0hq",
+    "serviceId": "srv_mgx74z5vl3l4",
+    "startAt": "2025-10-19T06:33:20.803508+00:00",
+    "endAt": "2025-10-19T07:18:20.803508+00:00",
+    "priceCents": 3200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64bsvk",
+    "serviceId": "srv_mgx74z5vnioq",
+    "startAt": "2025-10-20T21:33:20.803508+00:00",
+    "endAt": "2025-10-20T22:23:20.803508+00:00",
+    "priceCents": 4800,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z64yx2x",
+    "serviceId": "srv_mgx74z5vl6zo",
+    "startAt": "2025-10-21T03:03:20.803508+00:00",
+    "endAt": "2025-10-21T04:03:20.803508+00:00",
+    "priceCents": 6050,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z64cisp",
+    "serviceId": "srv_mgx74z5vl3l4",
+    "startAt": "2025-10-20T21:18:20.803508+00:00",
+    "endAt": "2025-10-20T22:03:20.803508+00:00",
+    "priceCents": 3200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64i3x9",
+    "serviceId": "srv_mgx74z5vl3l4",
+    "startAt": "2025-10-20T23:48:20.803508+00:00",
+    "endAt": "2025-10-21T00:33:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64by8p",
+    "serviceId": "srv_mgx74z5vl3l4",
+    "startAt": "2025-10-21T04:03:20.803508+00:00",
+    "endAt": "2025-10-21T04:48:20.803508+00:00",
+    "priceCents": 3200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64ct5g",
+    "serviceId": "srv_mgx74z5vl3l4",
+    "startAt": "2025-10-19T19:03:20.803508+00:00",
+    "endAt": "2025-10-19T19:48:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6457sn",
+    "serviceId": "srv_mgx74z5vl3l4",
+    "startAt": "2025-10-20T18:33:20.803508+00:00",
+    "endAt": "2025-10-20T19:18:20.803508+00:00",
+    "priceCents": 3200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z64a9b3",
+    "serviceId": "srv_mgx74z5v59mj",
+    "startAt": "2025-10-20T23:33:20.803508+00:00",
+    "endAt": "2025-10-21T00:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z640tvv",
+    "serviceId": "srv_mgx74z5v59mj",
+    "startAt": "2025-10-19T10:18:20.803508+00:00",
+    "endAt": "2025-10-19T11:18:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64fdut",
+    "serviceId": "srv_mgx74z5vzol8",
+    "startAt": "2025-10-21T01:18:20.803508+00:00",
+    "endAt": "2025-10-21T02:08:20.803508+00:00",
+    "priceCents": 6600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64fzhz",
+    "serviceId": "srv_mgx74z5vp85j",
+    "startAt": "2025-10-20T02:18:20.803508+00:00",
+    "endAt": "2025-10-20T03:03:20.803508+00:00",
+    "priceCents": 3200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64292j",
+    "serviceId": "srv_mgx74z5v59mj",
+    "startAt": "2025-10-19T01:33:20.803508+00:00",
+    "endAt": "2025-10-19T02:33:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64aizb",
+    "serviceId": "srv_mgx74z5vp85j",
+    "startAt": "2025-10-19T03:18:20.803508+00:00",
+    "endAt": "2025-10-19T04:03:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64jkno",
+    "serviceId": "srv_mgx74z5vp85j",
+    "startAt": "2025-10-20T21:48:20.803508+00:00",
+    "endAt": "2025-10-20T22:33:20.803508+00:00",
+    "priceCents": 3200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z64xdd3",
+    "serviceId": "srv_mgx74z5v59mj",
+    "startAt": "2025-10-20T18:48:20.803508+00:00",
+    "endAt": "2025-10-20T19:48:20.803508+00:00",
+    "priceCents": 6050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64rkgx",
+    "serviceId": "srv_mgx74z5v59mj",
+    "startAt": "2025-10-20T10:18:20.803508+00:00",
+    "endAt": "2025-10-20T11:18:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64xvvb",
+    "serviceId": "srv_mgx74z5vzol8",
+    "startAt": "2025-10-20T13:48:20.803508+00:00",
+    "endAt": "2025-10-20T14:38:20.803508+00:00",
+    "priceCents": 6600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z64qq2l",
+    "serviceId": "srv_mgx74z5vp85j",
+    "startAt": "2025-10-20T14:18:20.803508+00:00",
+    "endAt": "2025-10-20T15:03:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6407ll",
+    "serviceId": "srv_mgx74z5v59mj",
+    "startAt": "2025-10-19T17:48:20.803508+00:00",
+    "endAt": "2025-10-19T18:48:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z64lluu",
+    "serviceId": "srv_mgx74z5vp85j",
+    "startAt": "2025-10-20T20:18:20.803508+00:00",
+    "endAt": "2025-10-20T21:03:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z64xjkz",
+    "serviceId": "srv_mgx74z5vjbdl",
+    "startAt": "2025-10-20T04:03:20.803508+00:00",
+    "endAt": "2025-10-20T05:03:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z65ob7j",
+    "serviceId": "srv_mgx74z5vwn1n",
+    "startAt": "2025-10-19T20:03:20.803508+00:00",
+    "endAt": "2025-10-19T20:53:20.803508+00:00",
+    "priceCents": 5400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65vfns",
+    "serviceId": "srv_mgx74z5vjbdl",
+    "startAt": "2025-10-20T19:18:20.803508+00:00",
+    "endAt": "2025-10-20T20:18:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z652c5s",
+    "serviceId": "srv_mgx74z5vjbdl",
+    "startAt": "2025-10-19T11:48:20.803508+00:00",
+    "endAt": "2025-10-19T12:48:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65clux",
+    "serviceId": "srv_mgx74z5vwn1n",
+    "startAt": "2025-10-21T02:03:20.803508+00:00",
+    "endAt": "2025-10-21T02:53:20.803508+00:00",
+    "priceCents": 5400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z650j25",
+    "serviceId": "srv_mgx74z5vwn1n",
+    "startAt": "2025-10-20T04:03:20.803508+00:00",
+    "endAt": "2025-10-20T04:53:20.803508+00:00",
+    "priceCents": 4800,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z65ihyk",
+    "serviceId": "srv_mgx74z5vjbdl",
+    "startAt": "2025-10-20T14:33:20.803508+00:00",
+    "endAt": "2025-10-20T15:33:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65h70z",
+    "serviceId": "srv_mgx74z5vjbdl",
+    "startAt": "2025-10-20T16:18:20.803508+00:00",
+    "endAt": "2025-10-20T17:18:20.803508+00:00",
+    "priceCents": 4950,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z659ifa",
+    "serviceId": "srv_mgx74z5vwn1n",
+    "startAt": "2025-10-19T11:48:20.803508+00:00",
+    "endAt": "2025-10-19T12:38:20.803508+00:00",
+    "priceCents": 6000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6581u3",
+    "serviceId": "srv_mgx74z5vwn1n",
+    "startAt": "2025-10-19T17:48:20.803508+00:00",
+    "endAt": "2025-10-19T18:38:20.803508+00:00",
+    "priceCents": 4800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65bsmj",
+    "serviceId": "srv_mgx74z5vwn1n",
+    "startAt": "2025-10-19T22:18:20.803508+00:00",
+    "endAt": "2025-10-19T23:08:20.803508+00:00",
+    "priceCents": 6600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65t85t",
+    "serviceId": "srv_mgx74z5vjbdl",
+    "startAt": "2025-10-21T02:33:20.803508+00:00",
+    "endAt": "2025-10-21T03:33:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z65blkt",
+    "serviceId": "srv_mgx74z5vwn1n",
+    "startAt": "2025-10-19T07:48:20.803508+00:00",
+    "endAt": "2025-10-19T08:38:20.803508+00:00",
+    "priceCents": 6600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z65w6p6",
+    "serviceId": "srv_mgx74z5vwn1n",
+    "startAt": "2025-10-19T16:48:20.803508+00:00",
+    "endAt": "2025-10-19T17:38:20.803508+00:00",
+    "priceCents": 5400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65pqff",
+    "serviceId": "srv_mgx74z5vl8o9",
+    "startAt": "2025-10-20T15:18:20.803508+00:00",
+    "endAt": "2025-10-20T16:18:20.803508+00:00",
+    "priceCents": 6050,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z65lyfb",
+    "serviceId": "srv_mgx74z5vl8o9",
+    "startAt": "2025-10-20T12:03:20.803508+00:00",
+    "endAt": "2025-10-20T13:03:20.803508+00:00",
+    "priceCents": 6050,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6546ok",
+    "serviceId": "srv_mgx74z5vl8o9",
+    "startAt": "2025-10-19T05:03:20.803508+00:00",
+    "endAt": "2025-10-19T06:03:20.803508+00:00",
+    "priceCents": 6050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65099s",
+    "serviceId": "srv_mgx74z5vwyx2",
+    "startAt": "2025-10-20T15:18:20.803508+00:00",
+    "endAt": "2025-10-20T16:08:20.803508+00:00",
+    "priceCents": 5400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65cdkj",
+    "serviceId": "srv_mgx74z5vl8o9",
+    "startAt": "2025-10-19T17:03:20.803508+00:00",
+    "endAt": "2025-10-19T18:03:20.803508+00:00",
+    "priceCents": 6050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65m50w",
+    "serviceId": "srv_mgx74z5vl8o9",
+    "startAt": "2025-10-21T00:48:20.803508+00:00",
+    "endAt": "2025-10-21T01:48:20.803508+00:00",
+    "priceCents": 6050,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z651frp",
+    "serviceId": "srv_mgx74z5vl8o9",
+    "startAt": "2025-10-20T09:48:20.803508+00:00",
+    "endAt": "2025-10-20T10:48:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65ydbu",
+    "serviceId": "srv_mgx74z5vl8o9",
+    "startAt": "2025-10-19T19:03:20.803508+00:00",
+    "endAt": "2025-10-19T20:03:20.803508+00:00",
+    "priceCents": 6050,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65q9i8",
+    "serviceId": "srv_mgx74z5v94i6",
+    "startAt": "2025-10-19T11:03:20.803508+00:00",
+    "endAt": "2025-10-19T11:48:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z65btwr",
+    "serviceId": "srv_mgx74z5v94i6",
+    "startAt": "2025-10-19T07:03:20.803508+00:00",
+    "endAt": "2025-10-19T07:48:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z65whqy",
+    "serviceId": "srv_mgx74z5v94i6",
+    "startAt": "2025-10-20T11:03:20.803508+00:00",
+    "endAt": "2025-10-20T11:48:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z65tx5x",
+    "serviceId": "srv_mgx74z5vwyx2",
+    "startAt": "2025-10-20T18:18:20.803508+00:00",
+    "endAt": "2025-10-20T19:08:20.803508+00:00",
+    "priceCents": 6000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65yj3l",
+    "serviceId": "srv_mgx74z5vs2qn",
+    "startAt": "2025-10-19T14:03:20.803508+00:00",
+    "endAt": "2025-10-19T14:48:20.803508+00:00",
+    "priceCents": 3200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65lqmi",
+    "serviceId": "srv_mgx74z5vs2qn",
+    "startAt": "2025-10-20T05:03:20.803508+00:00",
+    "endAt": "2025-10-20T05:48:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65g3ua",
+    "serviceId": "srv_mgx74z5vfsis",
+    "startAt": "2025-10-19T08:18:20.803508+00:00",
+    "endAt": "2025-10-19T09:08:20.803508+00:00",
+    "priceCents": 6000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z65g8hh",
+    "serviceId": "srv_mgx74z5vs2qn",
+    "startAt": "2025-10-20T06:18:20.803508+00:00",
+    "endAt": "2025-10-20T07:03:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z65l599",
+    "serviceId": "srv_mgx74z5vs2qn",
+    "startAt": "2025-10-19T14:33:20.803508+00:00",
+    "endAt": "2025-10-19T15:18:20.803508+00:00",
+    "priceCents": 3200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65sadm",
+    "serviceId": "srv_mgx74z5vfsis",
+    "startAt": "2025-10-20T23:03:20.803508+00:00",
+    "endAt": "2025-10-20T23:53:20.803508+00:00",
+    "priceCents": 5400,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z65ooug",
+    "serviceId": "srv_mgx74z5vfsis",
+    "startAt": "2025-10-20T04:48:20.803508+00:00",
+    "endAt": "2025-10-20T05:38:20.803508+00:00",
+    "priceCents": 5400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65okx2",
+    "serviceId": "srv_mgx74z5vs2qn",
+    "startAt": "2025-10-20T08:03:20.803508+00:00",
+    "endAt": "2025-10-20T08:48:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65hlhh",
+    "serviceId": "srv_mgx74z5vs2qn",
+    "startAt": "2025-10-20T08:48:20.803508+00:00",
+    "endAt": "2025-10-20T09:33:20.803508+00:00",
+    "priceCents": 4400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z65040q",
+    "serviceId": "srv_mgx74z5vfsis",
+    "startAt": "2025-10-20T17:33:20.803508+00:00",
+    "endAt": "2025-10-20T18:23:20.803508+00:00",
+    "priceCents": 4800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65eigc",
+    "serviceId": "srv_mgx74z5vs2qn",
+    "startAt": "2025-10-20T07:18:20.803508+00:00",
+    "endAt": "2025-10-20T08:03:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z657bgi",
+    "serviceId": "srv_mgx74z5vs2qn",
+    "startAt": "2025-10-19T03:33:20.803508+00:00",
+    "endAt": "2025-10-19T04:18:20.803508+00:00",
+    "priceCents": 3600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z65rkga",
+    "serviceId": "srv_mgx74z5vfsis",
+    "startAt": "2025-10-20T16:18:20.803508+00:00",
+    "endAt": "2025-10-20T17:08:20.803508+00:00",
+    "priceCents": 6000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z663ggb",
+    "serviceId": "srv_mgx74z5vs2qn",
+    "startAt": "2025-10-19T15:18:20.803508+00:00",
+    "endAt": "2025-10-19T16:03:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z66v69y",
+    "serviceId": "srv_mgx74z5vjucn",
+    "startAt": "2025-10-20T05:33:20.803508+00:00",
+    "endAt": "2025-10-20T06:03:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z666244",
+    "serviceId": "srv_mgx74z5vstio",
+    "startAt": "2025-10-19T11:18:20.803508+00:00",
+    "endAt": "2025-10-19T12:18:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z66p0wv",
+    "serviceId": "srv_mgx74z5vjucn",
+    "startAt": "2025-10-19T01:03:20.803508+00:00",
+    "endAt": "2025-10-19T01:33:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z66ye0o",
+    "serviceId": "srv_mgx74z5vstio",
+    "startAt": "2025-10-20T02:03:20.803508+00:00",
+    "endAt": "2025-10-20T03:03:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z665tic",
+    "serviceId": "srv_mgx74z5vjucn",
+    "startAt": "2025-10-20T14:18:20.803508+00:00",
+    "endAt": "2025-10-20T14:48:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z66jo6m",
+    "serviceId": "srv_mgx74z5vjucn",
+    "startAt": "2025-10-20T09:18:20.803508+00:00",
+    "endAt": "2025-10-20T09:48:20.803508+00:00",
+    "priceCents": 0,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z66yjvy",
+    "serviceId": "srv_mgx74z5vjucn",
+    "startAt": "2025-10-20T20:33:20.803508+00:00",
+    "endAt": "2025-10-20T21:03:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z662p7d",
+    "serviceId": "srv_mgx74z5vstio",
+    "startAt": "2025-10-18T23:18:20.803508+00:00",
+    "endAt": "2025-10-19T00:18:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z66429v",
+    "serviceId": "srv_mgx74z5vstio",
+    "startAt": "2025-10-20T17:33:20.803508+00:00",
+    "endAt": "2025-10-20T18:33:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z66ta46",
+    "serviceId": "srv_mgx74z5vjucn",
+    "startAt": "2025-10-20T14:18:20.803508+00:00",
+    "endAt": "2025-10-20T14:48:20.803508+00:00",
+    "priceCents": 0,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z66kd2b",
+    "serviceId": "srv_mgx74z5vstio",
+    "startAt": "2025-10-19T18:18:20.803508+00:00",
+    "endAt": "2025-10-19T19:18:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6686oa",
+    "serviceId": "srv_mgx74z5vstio",
+    "startAt": "2025-10-20T09:33:20.803508+00:00",
+    "endAt": "2025-10-20T10:33:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z665iqu",
+    "serviceId": "srv_mgx74z5vjucn",
+    "startAt": "2025-10-20T05:18:20.803508+00:00",
+    "endAt": "2025-10-20T05:48:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67fb2b",
+    "serviceId": "srv_mgx74z5vg3un",
+    "startAt": "2025-10-19T07:48:20.803508+00:00",
+    "endAt": "2025-10-19T08:48:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67mq0z",
+    "serviceId": "srv_mgx74z5vi5ah",
+    "startAt": "2025-10-20T05:18:20.803508+00:00",
+    "endAt": "2025-10-20T06:03:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67nywe",
+    "serviceId": "srv_mgx74z5vg3un",
+    "startAt": "2025-10-19T10:18:20.803508+00:00",
+    "endAt": "2025-10-19T11:18:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6723ni",
+    "serviceId": "srv_mgx74z5vg3un",
+    "startAt": "2025-10-20T18:03:20.803508+00:00",
+    "endAt": "2025-10-20T19:03:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67263y",
+    "serviceId": "srv_mgx74z5vg3un",
+    "startAt": "2025-10-20T01:48:20.803508+00:00",
+    "endAt": "2025-10-20T02:48:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z674fsk",
+    "serviceId": "srv_mgx74z5vg3un",
+    "startAt": "2025-10-19T08:18:20.803508+00:00",
+    "endAt": "2025-10-19T09:18:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67ke6f",
+    "serviceId": "srv_mgx74z5vz6x7",
+    "startAt": "2025-10-19T10:48:20.803508+00:00",
+    "endAt": "2025-10-19T11:18:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z674uv3",
+    "serviceId": "srv_mgx74z5vi5ah",
+    "startAt": "2025-10-20T00:33:20.803508+00:00",
+    "endAt": "2025-10-20T01:18:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67bon8",
+    "serviceId": "srv_mgx74z5vz6x7",
+    "startAt": "2025-10-19T07:33:20.803508+00:00",
+    "endAt": "2025-10-19T08:03:20.803508+00:00",
+    "priceCents": 0,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z67ttqa",
+    "serviceId": "srv_mgx74z5vg3un",
+    "startAt": "2025-10-20T18:18:20.803508+00:00",
+    "endAt": "2025-10-20T19:18:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67ze5q",
+    "serviceId": "srv_mgx74z5vz6x7",
+    "startAt": "2025-10-19T12:48:20.803508+00:00",
+    "endAt": "2025-10-19T13:18:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z670rff",
+    "serviceId": "srv_mgx74z5v1q3p",
+    "startAt": "2025-10-19T12:03:20.803508+00:00",
+    "endAt": "2025-10-19T13:03:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z67u6sv",
+    "serviceId": "srv_mgx74z5v5esm",
+    "startAt": "2025-10-20T04:18:20.803508+00:00",
+    "endAt": "2025-10-20T04:48:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67d8mi",
+    "serviceId": "srv_mgx74z5v5esm",
+    "startAt": "2025-10-19T03:18:20.803508+00:00",
+    "endAt": "2025-10-19T03:48:20.803508+00:00",
+    "priceCents": 0,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z678pbn",
+    "serviceId": "srv_mgx74z5vwnfo",
+    "startAt": "2025-10-20T03:18:20.803508+00:00",
+    "endAt": "2025-10-20T04:03:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z675l3w",
+    "serviceId": "srv_mgx74z5v5esm",
+    "startAt": "2025-10-19T17:03:20.803508+00:00",
+    "endAt": "2025-10-19T17:33:20.803508+00:00",
+    "priceCents": 0,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z67z4zd",
+    "serviceId": "srv_mgx74z5v1q3p",
+    "startAt": "2025-10-20T13:18:20.803508+00:00",
+    "endAt": "2025-10-20T14:18:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67dekm",
+    "serviceId": "srv_mgx74z5v5esm",
+    "startAt": "2025-10-19T19:33:20.803508+00:00",
+    "endAt": "2025-10-19T20:03:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67nmsv",
+    "serviceId": "srv_mgx74z5v1q3p",
+    "startAt": "2025-10-20T07:03:20.803508+00:00",
+    "endAt": "2025-10-20T08:03:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67sn4c",
+    "serviceId": "srv_mgx74z5vwnfo",
+    "startAt": "2025-10-20T07:18:20.803508+00:00",
+    "endAt": "2025-10-20T08:03:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67i46a",
+    "serviceId": "srv_mgx74z5v1q3p",
+    "startAt": "2025-10-19T03:18:20.803508+00:00",
+    "endAt": "2025-10-19T04:18:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67x1iq",
+    "serviceId": "srv_mgx74z5v1q3p",
+    "startAt": "2025-10-19T05:33:20.803508+00:00",
+    "endAt": "2025-10-19T06:33:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67s1ic",
+    "serviceId": "srv_mgx74z5vwnfo",
+    "startAt": "2025-10-20T08:33:20.803508+00:00",
+    "endAt": "2025-10-20T09:18:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67qlkv",
+    "serviceId": "srv_mgx74z5v5esm",
+    "startAt": "2025-10-18T23:33:20.803508+00:00",
+    "endAt": "2025-10-19T00:03:20.803508+00:00",
+    "priceCents": 0,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z67euni",
+    "serviceId": "srv_mgx74z5vwnfo",
+    "startAt": "2025-10-19T06:48:20.803508+00:00",
+    "endAt": "2025-10-19T07:33:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67ayib",
+    "serviceId": "srv_mgx74z5v1k6l",
+    "startAt": "2025-10-19T20:48:20.803508+00:00",
+    "endAt": "2025-10-19T21:33:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z672k8s",
+    "serviceId": "srv_mgx74z5v1k6l",
+    "startAt": "2025-10-21T03:33:20.803508+00:00",
+    "endAt": "2025-10-21T04:18:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67km9n",
+    "serviceId": "srv_mgx74z5v982i",
+    "startAt": "2025-10-19T21:33:20.803508+00:00",
+    "endAt": "2025-10-19T22:33:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z671pv9",
+    "serviceId": "srv_mgx74z5v982i",
+    "startAt": "2025-10-20T08:33:20.803508+00:00",
+    "endAt": "2025-10-20T09:33:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67iui9",
+    "serviceId": "srv_mgx74z5v982i",
+    "startAt": "2025-10-19T18:33:20.803508+00:00",
+    "endAt": "2025-10-19T19:33:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z678z7j",
+    "serviceId": "srv_mgx74z5v982i",
+    "startAt": "2025-10-19T19:18:20.803508+00:00",
+    "endAt": "2025-10-19T20:18:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z67hc15",
+    "serviceId": "srv_mgx74z5v1k6l",
+    "startAt": "2025-10-20T12:33:20.803508+00:00",
+    "endAt": "2025-10-20T13:18:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67cvkw",
+    "serviceId": "srv_mgx74z5v982i",
+    "startAt": "2025-10-20T17:18:20.803508+00:00",
+    "endAt": "2025-10-20T18:18:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z67sz5d",
+    "serviceId": "srv_mgx74z5v982i",
+    "startAt": "2025-10-18T22:48:20.803508+00:00",
+    "endAt": "2025-10-18T23:48:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67arq8",
+    "serviceId": "srv_mgx74z5v982i",
+    "startAt": "2025-10-20T22:03:20.803508+00:00",
+    "endAt": "2025-10-20T23:03:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z67hqbz",
+    "serviceId": "srv_mgx74z5vgd9z",
+    "startAt": "2025-10-19T03:03:20.803508+00:00",
+    "endAt": "2025-10-19T04:03:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67izv2",
+    "serviceId": "srv_mgx74z5vgd9z",
+    "startAt": "2025-10-20T19:33:20.803508+00:00",
+    "endAt": "2025-10-20T20:33:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67e109",
+    "serviceId": "srv_mgx74z5vgd9z",
+    "startAt": "2025-10-21T03:48:20.803508+00:00",
+    "endAt": "2025-10-21T04:48:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z67qbvf",
+    "serviceId": "srv_mgx74z5vgd9z",
+    "startAt": "2025-10-19T18:03:20.803508+00:00",
+    "endAt": "2025-10-19T19:03:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68nurg",
+    "serviceId": "srv_mgx74z5vs051",
+    "startAt": "2025-10-19T05:48:20.803508+00:00",
+    "endAt": "2025-10-19T06:18:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68nw1g",
+    "serviceId": "srv_mgx74z5vxr7i",
+    "startAt": "2025-10-20T18:03:20.803508+00:00",
+    "endAt": "2025-10-20T18:48:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z683iix",
+    "serviceId": "srv_mgx74z5vs051",
+    "startAt": "2025-10-19T01:48:20.803508+00:00",
+    "endAt": "2025-10-19T02:18:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z686ayk",
+    "serviceId": "srv_mgx74z5vxr7i",
+    "startAt": "2025-10-19T02:33:20.803508+00:00",
+    "endAt": "2025-10-19T03:18:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z68nvql",
+    "serviceId": "srv_mgx74z5vxr7i",
+    "startAt": "2025-10-19T20:33:20.803508+00:00",
+    "endAt": "2025-10-19T21:18:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68czxy",
+    "serviceId": "srv_mgx74z5vs051",
+    "startAt": "2025-10-19T04:33:20.803508+00:00",
+    "endAt": "2025-10-19T05:03:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68781u",
+    "serviceId": "srv_mgx74z5vxr7i",
+    "startAt": "2025-10-20T09:18:20.803508+00:00",
+    "endAt": "2025-10-20T10:03:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68xlbj",
+    "serviceId": "srv_mgx74z5vgd9z",
+    "startAt": "2025-10-19T17:48:20.803508+00:00",
+    "endAt": "2025-10-19T18:48:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68ej8d",
+    "serviceId": "srv_mgx74z5vs051",
+    "startAt": "2025-10-20T21:18:20.803508+00:00",
+    "endAt": "2025-10-20T21:48:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6841ur",
+    "serviceId": "srv_mgx74z5vs051",
+    "startAt": "2025-10-19T04:03:20.803508+00:00",
+    "endAt": "2025-10-19T04:33:20.803508+00:00",
+    "priceCents": 0,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6867dc",
+    "serviceId": "srv_mgx74z5v47vy",
+    "startAt": "2025-10-19T00:18:20.803508+00:00",
+    "endAt": "2025-10-19T01:18:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68hmma",
+    "serviceId": "srv_mgx74z5v3fqt",
+    "startAt": "2025-10-20T16:48:20.803508+00:00",
+    "endAt": "2025-10-20T17:33:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68xdci",
+    "serviceId": "srv_mgx74z5v3fqt",
+    "startAt": "2025-10-20T06:18:20.803508+00:00",
+    "endAt": "2025-10-20T07:03:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68dwun",
+    "serviceId": "srv_mgx74z5v3fqt",
+    "startAt": "2025-10-20T22:18:20.803508+00:00",
+    "endAt": "2025-10-20T23:03:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z687t7x",
+    "serviceId": "srv_mgx74z5v47vy",
+    "startAt": "2025-10-19T11:33:20.803508+00:00",
+    "endAt": "2025-10-19T12:33:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z685kv7",
+    "serviceId": "srv_mgx74z5v3fqt",
+    "startAt": "2025-10-20T05:48:20.803508+00:00",
+    "endAt": "2025-10-20T06:33:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z68unb0",
+    "serviceId": "srv_mgx74z5v47vy",
+    "startAt": "2025-10-19T17:03:20.803508+00:00",
+    "endAt": "2025-10-19T18:03:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6879pp",
+    "serviceId": "srv_mgx74z5v47vy",
+    "startAt": "2025-10-20T17:18:20.803508+00:00",
+    "endAt": "2025-10-20T18:18:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68lcp7",
+    "serviceId": "srv_mgx74z5v3fqt",
+    "startAt": "2025-10-20T21:33:20.803508+00:00",
+    "endAt": "2025-10-20T22:18:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68hpmu",
+    "serviceId": "srv_mgx74z5v3fqt",
+    "startAt": "2025-10-21T04:03:20.803508+00:00",
+    "endAt": "2025-10-21T04:48:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z688163",
+    "serviceId": "srv_mgx74z5v9ir0",
+    "startAt": "2025-10-19T05:48:20.803508+00:00",
+    "endAt": "2025-10-19T06:18:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68k9j6",
+    "serviceId": "srv_mgx74z5v9ir0",
+    "startAt": "2025-10-20T05:18:20.803508+00:00",
+    "endAt": "2025-10-20T05:48:20.803508+00:00",
+    "priceCents": 0,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z682r7o",
+    "serviceId": "srv_mgx74z5vmfqb",
+    "startAt": "2025-10-20T05:48:20.803508+00:00",
+    "endAt": "2025-10-20T06:48:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z682bzj",
+    "serviceId": "srv_mgx74z5vmfqb",
+    "startAt": "2025-10-19T19:03:20.803508+00:00",
+    "endAt": "2025-10-19T20:03:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68v7vz",
+    "serviceId": "srv_mgx74z5v9ir0",
+    "startAt": "2025-10-20T06:03:20.803508+00:00",
+    "endAt": "2025-10-20T06:33:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68gvom",
+    "serviceId": "srv_mgx74z5vmfqb",
+    "startAt": "2025-10-20T04:33:20.803508+00:00",
+    "endAt": "2025-10-20T05:33:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z688nm1",
+    "serviceId": "srv_mgx74z5vmfqb",
+    "startAt": "2025-10-19T18:18:20.803508+00:00",
+    "endAt": "2025-10-19T19:18:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68qm3f",
+    "serviceId": "srv_mgx74z5vmfqb",
+    "startAt": "2025-10-19T22:18:20.803508+00:00",
+    "endAt": "2025-10-19T23:18:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68j7la",
+    "serviceId": "srv_mgx74z5v9ir0",
+    "startAt": "2025-10-19T13:48:20.803508+00:00",
+    "endAt": "2025-10-19T14:18:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68wqh1",
+    "serviceId": "srv_mgx74z5v9ir0",
+    "startAt": "2025-10-20T08:48:20.803508+00:00",
+    "endAt": "2025-10-20T09:18:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68ok6v",
+    "serviceId": "srv_mgx74z5vmfqb",
+    "startAt": "2025-10-20T11:18:20.803508+00:00",
+    "endAt": "2025-10-20T12:18:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z68cv4y",
+    "serviceId": "srv_mgx74z5vmfqb",
+    "startAt": "2025-10-19T08:48:20.803508+00:00",
+    "endAt": "2025-10-19T09:48:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68e56l",
+    "serviceId": "srv_mgx74z5v9ir0",
+    "startAt": "2025-10-19T16:48:20.803508+00:00",
+    "endAt": "2025-10-19T17:18:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z684jwj",
+    "serviceId": "srv_mgx74z5v4xyw",
+    "startAt": "2025-10-20T11:03:20.803508+00:00",
+    "endAt": "2025-10-20T11:33:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68gwtz",
+    "serviceId": "srv_mgx74z5vwz1o",
+    "startAt": "2025-10-20T16:48:20.803508+00:00",
+    "endAt": "2025-10-20T17:33:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68thyr",
+    "serviceId": "srv_mgx74z5v4xyw",
+    "startAt": "2025-10-18T23:33:20.803508+00:00",
+    "endAt": "2025-10-19T00:03:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68f9jr",
+    "serviceId": "srv_mgx74z5v4xyw",
+    "startAt": "2025-10-20T07:33:20.803508+00:00",
+    "endAt": "2025-10-20T08:03:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68hiag",
+    "serviceId": "srv_mgx74z5vwz1o",
+    "startAt": "2025-10-19T18:18:20.803508+00:00",
+    "endAt": "2025-10-19T19:03:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z681fjt",
+    "serviceId": "srv_mgx74z5v4xyw",
+    "startAt": "2025-10-19T23:33:20.803508+00:00",
+    "endAt": "2025-10-20T00:03:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z68cah8",
+    "serviceId": "srv_mgx74z5vwz1o",
+    "startAt": "2025-10-20T10:03:20.803508+00:00",
+    "endAt": "2025-10-20T10:48:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z682v13",
+    "serviceId": "srv_mgx74z5v4xyw",
+    "startAt": "2025-10-19T14:48:20.803508+00:00",
+    "endAt": "2025-10-19T15:18:20.803508+00:00",
+    "priceCents": 0,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z69f7w7",
+    "serviceId": "srv_mgx74z5vwz1o",
+    "startAt": "2025-10-20T16:18:20.803508+00:00",
+    "endAt": "2025-10-20T17:03:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z69klof",
+    "serviceId": "srv_mgx74z5vwz1o",
+    "startAt": "2025-10-20T05:18:20.803508+00:00",
+    "endAt": "2025-10-20T06:03:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z69hsqg",
+    "serviceId": "srv_mgx74z5vwz1o",
+    "startAt": "2025-10-19T11:33:20.803508+00:00",
+    "endAt": "2025-10-19T12:18:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z69kyru",
+    "serviceId": "srv_mgx74z5v4xyw",
+    "startAt": "2025-10-20T05:48:20.803508+00:00",
+    "endAt": "2025-10-20T06:18:20.803508+00:00",
+    "priceCents": 0,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z69fgzo",
+    "serviceId": "srv_mgx74z5vmf6l",
+    "startAt": "2025-10-18T23:18:20.803508+00:00",
+    "endAt": "2025-10-19T00:03:20.803508+00:00",
+    "priceCents": 6400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z69gj5f",
+    "serviceId": "srv_mgx74z5vmf6l",
+    "startAt": "2025-10-19T22:18:20.803508+00:00",
+    "endAt": "2025-10-19T23:03:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z69lr6a",
+    "serviceId": "srv_mgx74z5vg1m4",
+    "startAt": "2025-10-21T03:03:20.803508+00:00",
+    "endAt": "2025-10-21T04:03:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z69t13b",
+    "serviceId": "srv_mgx74z5v82my",
+    "startAt": "2025-10-19T14:18:20.803508+00:00",
+    "endAt": "2025-10-19T14:48:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z69jk57",
+    "serviceId": "srv_mgx74z5v82my",
+    "startAt": "2025-10-20T02:33:20.803508+00:00",
+    "endAt": "2025-10-20T03:03:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z69ksu8",
+    "serviceId": "srv_mgx74z5vg1m4",
+    "startAt": "2025-10-19T13:33:20.803508+00:00",
+    "endAt": "2025-10-19T14:33:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6911ze",
+    "serviceId": "srv_mgx74z5vmf6l",
+    "startAt": "2025-10-19T10:03:20.803508+00:00",
+    "endAt": "2025-10-19T10:48:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z69a70x",
+    "serviceId": "srv_mgx74z5v82my",
+    "startAt": "2025-10-20T01:48:20.803508+00:00",
+    "endAt": "2025-10-20T02:18:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z697edc",
+    "serviceId": "srv_mgx74z5vmf6l",
+    "startAt": "2025-10-21T00:03:20.803508+00:00",
+    "endAt": "2025-10-21T00:48:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z69cqbq",
+    "serviceId": "srv_mgx74z5vg1m4",
+    "startAt": "2025-10-20T12:33:20.803508+00:00",
+    "endAt": "2025-10-20T13:33:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z698kpd",
+    "serviceId": "srv_mgx74z5vg1m4",
+    "startAt": "2025-10-19T22:03:20.803508+00:00",
+    "endAt": "2025-10-19T23:03:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6946z3",
+    "serviceId": "srv_mgx74z5v82my",
+    "startAt": "2025-10-19T23:03:20.803508+00:00",
+    "endAt": "2025-10-19T23:33:20.803508+00:00",
+    "priceCents": 0,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z69n8z2",
+    "serviceId": "srv_mgx74z5v2c2k",
+    "startAt": "2025-10-20T14:03:20.803508+00:00",
+    "endAt": "2025-10-20T14:48:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z69lt85",
+    "serviceId": "srv_mgx74z5v2c2k",
+    "startAt": "2025-10-19T09:48:20.803508+00:00",
+    "endAt": "2025-10-19T10:33:20.803508+00:00",
+    "priceCents": 8800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z69k28v",
+    "serviceId": "srv_mgx74z5vt2ic",
+    "startAt": "2025-10-20T20:03:20.803508+00:00",
+    "endAt": "2025-10-20T21:03:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z69ggxk",
+    "serviceId": "srv_mgx74z5vt2ic",
+    "startAt": "2025-10-20T21:48:20.803508+00:00",
+    "endAt": "2025-10-20T22:48:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z69ugat",
+    "serviceId": "srv_mgx74z5vub84",
+    "startAt": "2025-10-19T07:18:20.803508+00:00",
+    "endAt": "2025-10-19T07:48:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z69zvtv",
+    "serviceId": "srv_mgx74z5vt2ic",
+    "startAt": "2025-10-19T06:03:20.803508+00:00",
+    "endAt": "2025-10-19T07:03:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z69diba",
+    "serviceId": "srv_mgx74z5vub84",
+    "startAt": "2025-10-21T04:33:20.803508+00:00",
+    "endAt": "2025-10-21T05:03:20.803508+00:00",
+    "priceCents": 0,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z690xbq",
+    "serviceId": "srv_mgx74z5v2c2k",
+    "startAt": "2025-10-20T06:48:20.803508+00:00",
+    "endAt": "2025-10-20T07:33:20.803508+00:00",
+    "priceCents": 7200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6a1i7p",
+    "serviceId": "srv_mgx74z5vub84",
+    "startAt": "2025-10-19T14:03:20.803508+00:00",
+    "endAt": "2025-10-19T14:33:20.803508+00:00",
+    "priceCents": 0,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6a0l2s",
+    "serviceId": "srv_mgx74z5vt2ic",
+    "startAt": "2025-10-21T04:03:20.803508+00:00",
+    "endAt": "2025-10-21T05:03:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6aik34",
+    "serviceId": "srv_mgx74z5vt2ic",
+    "startAt": "2025-10-20T20:33:20.803508+00:00",
+    "endAt": "2025-10-20T21:33:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6abfp5",
+    "serviceId": "srv_mgx74z5v2c2k",
+    "startAt": "2025-10-20T13:03:20.803508+00:00",
+    "endAt": "2025-10-20T13:48:20.803508+00:00",
+    "priceCents": 8000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6a97jv",
+    "serviceId": "srv_mgx74z5vg2ci",
+    "startAt": "2025-10-19T09:03:20.803508+00:00",
+    "endAt": "2025-10-19T09:33:20.803508+00:00",
+    "priceCents": 5000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6auhr5",
+    "serviceId": "srv_mgx74z5vm3lh",
+    "startAt": "2025-10-20T06:33:20.803508+00:00",
+    "endAt": "2025-10-20T08:03:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6ar52w",
+    "serviceId": "srv_mgx74z5vm3lh",
+    "startAt": "2025-10-21T01:48:20.803508+00:00",
+    "endAt": "2025-10-21T03:18:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6avxx5",
+    "serviceId": "srv_mgx74z5vm3lh",
+    "startAt": "2025-10-20T03:33:20.803508+00:00",
+    "endAt": "2025-10-20T05:03:20.803508+00:00",
+    "priceCents": 16200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6aj98j",
+    "serviceId": "srv_mgx74z5vm3lh",
+    "startAt": "2025-10-20T04:03:20.803508+00:00",
+    "endAt": "2025-10-20T05:33:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6az42w",
+    "serviceId": "srv_mgx74z5vg2ci",
+    "startAt": "2025-10-20T08:03:20.803508+00:00",
+    "endAt": "2025-10-20T08:33:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6agmg5",
+    "serviceId": "srv_mgx74z5vg2ci",
+    "startAt": "2025-10-20T07:03:20.803508+00:00",
+    "endAt": "2025-10-20T07:33:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6abbp2",
+    "serviceId": "srv_mgx74z5v7nrp",
+    "startAt": "2025-10-18T23:18:20.803508+00:00",
+    "endAt": "2025-10-19T00:18:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6ag6ry",
+    "serviceId": "srv_mgx74z5vm3lh",
+    "startAt": "2025-10-19T19:33:20.803508+00:00",
+    "endAt": "2025-10-19T21:03:20.803508+00:00",
+    "priceCents": 14400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6autpv",
+    "serviceId": "srv_mgx74z5vg2ci",
+    "startAt": "2025-10-18T23:03:20.803508+00:00",
+    "endAt": "2025-10-18T23:33:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6aj588",
+    "serviceId": "srv_mgx74z5vrbyi",
+    "startAt": "2025-10-21T02:48:20.803508+00:00",
+    "endAt": "2025-10-21T03:48:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6ayc5j",
+    "serviceId": "srv_mgx74z5vh5r5",
+    "startAt": "2025-10-20T15:33:20.803508+00:00",
+    "endAt": "2025-10-20T16:03:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6aa9sv",
+    "serviceId": "srv_mgx74z5vh5r5",
+    "startAt": "2025-10-19T08:03:20.803508+00:00",
+    "endAt": "2025-10-19T08:33:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6aip3l",
+    "serviceId": "srv_mgx74z5vh5r5",
+    "startAt": "2025-10-19T00:03:20.803508+00:00",
+    "endAt": "2025-10-19T00:33:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6azi2v",
+    "serviceId": "srv_mgx74z5vvvnx",
+    "startAt": "2025-10-19T05:03:20.803508+00:00",
+    "endAt": "2025-10-19T06:33:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6aqu7v",
+    "serviceId": "srv_mgx74z5vh5r5",
+    "startAt": "2025-10-20T10:48:20.803508+00:00",
+    "endAt": "2025-10-20T11:18:20.803508+00:00",
+    "priceCents": 5000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6a1aic",
+    "serviceId": "srv_mgx74z5vrbyi",
+    "startAt": "2025-10-20T15:48:20.803508+00:00",
+    "endAt": "2025-10-20T16:48:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6alt8i",
+    "serviceId": "srv_mgx74z5vh5r5",
+    "startAt": "2025-10-19T21:03:20.803508+00:00",
+    "endAt": "2025-10-19T21:33:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6auadi",
+    "serviceId": "srv_mgx74z5vrbyi",
+    "startAt": "2025-10-20T20:03:20.803508+00:00",
+    "endAt": "2025-10-20T21:03:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6ajfdz",
+    "serviceId": "srv_mgx74z5vrbyi",
+    "startAt": "2025-10-20T05:18:20.803508+00:00",
+    "endAt": "2025-10-20T06:18:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6ae7ze",
+    "serviceId": "srv_mgx74z5vrbyi",
+    "startAt": "2025-10-19T00:18:20.803508+00:00",
+    "endAt": "2025-10-19T01:18:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6azh9w",
+    "serviceId": "srv_mgx74z5vh5r5",
+    "startAt": "2025-10-19T14:48:20.803508+00:00",
+    "endAt": "2025-10-19T15:18:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6aw6a7",
+    "serviceId": "srv_mgx74z5vijsr",
+    "startAt": "2025-10-21T00:18:20.803508+00:00",
+    "endAt": "2025-10-21T01:18:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6a87cs",
+    "serviceId": "srv_mgx74z5v2mrh",
+    "startAt": "2025-10-19T04:33:20.803508+00:00",
+    "endAt": "2025-10-19T06:03:20.803508+00:00",
+    "priceCents": 18000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6aliwa",
+    "serviceId": "srv_mgx74z5vasms",
+    "startAt": "2025-10-20T23:18:20.803508+00:00",
+    "endAt": "2025-10-20T23:48:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6anf9x",
+    "serviceId": "srv_mgx74z5vijsr",
+    "startAt": "2025-10-19T15:48:20.803508+00:00",
+    "endAt": "2025-10-19T16:48:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6a90x4",
+    "serviceId": "srv_mgx74z5vasms",
+    "startAt": "2025-10-21T04:48:20.803508+00:00",
+    "endAt": "2025-10-21T05:18:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6axiqp",
+    "serviceId": "srv_mgx74z5vijsr",
+    "startAt": "2025-10-20T16:33:20.803508+00:00",
+    "endAt": "2025-10-20T17:33:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6adysm",
+    "serviceId": "srv_mgx74z5vasms",
+    "startAt": "2025-10-20T07:33:20.803508+00:00",
+    "endAt": "2025-10-20T08:03:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6axyid",
+    "serviceId": "srv_mgx74z5v2mrh",
+    "startAt": "2025-10-19T20:03:20.803508+00:00",
+    "endAt": "2025-10-19T21:33:20.803508+00:00",
+    "priceCents": 16200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6afjrw",
+    "serviceId": "srv_mgx74z5v2mrh",
+    "startAt": "2025-10-19T08:18:20.803508+00:00",
+    "endAt": "2025-10-19T09:48:20.803508+00:00",
+    "priceCents": 18000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6awm73",
+    "serviceId": "srv_mgx74z5vijsr",
+    "startAt": "2025-10-20T20:18:20.803508+00:00",
+    "endAt": "2025-10-20T21:18:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6aoxf6",
+    "serviceId": "srv_mgx74z5vnwa1",
+    "startAt": "2025-10-19T20:48:20.803508+00:00",
+    "endAt": "2025-10-19T21:48:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6at69r",
+    "serviceId": "srv_mgx74z5v9s28",
+    "startAt": "2025-10-20T07:33:20.803508+00:00",
+    "endAt": "2025-10-20T09:03:20.803508+00:00",
+    "priceCents": 18000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6azxpg",
+    "serviceId": "srv_mgx74z5vnwa1",
+    "startAt": "2025-10-20T02:18:20.803508+00:00",
+    "endAt": "2025-10-20T03:18:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6aqa9w",
+    "serviceId": "srv_mgx74z5v9s28",
+    "startAt": "2025-10-20T15:03:20.803508+00:00",
+    "endAt": "2025-10-20T16:33:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6azn7q",
+    "serviceId": "srv_mgx74z5vnwa1",
+    "startAt": "2025-10-20T04:03:20.803508+00:00",
+    "endAt": "2025-10-20T05:03:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6ax97n",
+    "serviceId": "srv_mgx74z5vnwa1",
+    "startAt": "2025-10-19T05:48:20.803508+00:00",
+    "endAt": "2025-10-19T06:48:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6a99q3",
+    "serviceId": "srv_mgx74z5v9s28",
+    "startAt": "2025-10-19T21:48:20.803508+00:00",
+    "endAt": "2025-10-19T23:18:20.803508+00:00",
+    "priceCents": 14400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6a07zm",
+    "serviceId": "srv_mgx74z5v9s28",
+    "startAt": "2025-10-19T16:33:20.803508+00:00",
+    "endAt": "2025-10-19T18:03:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6aslou",
+    "serviceId": "srv_mgx74z5vnwa1",
+    "startAt": "2025-10-19T01:03:20.803508+00:00",
+    "endAt": "2025-10-19T02:03:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6ass9k",
+    "serviceId": "srv_mgx74z5vnwa1",
+    "startAt": "2025-10-20T22:33:20.803508+00:00",
+    "endAt": "2025-10-20T23:33:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6aly2s",
+    "serviceId": "srv_mgx74z5vnwa1",
+    "startAt": "2025-10-21T02:03:20.803508+00:00",
+    "endAt": "2025-10-21T03:03:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6az7z5",
+    "serviceId": "srv_mgx74z5vno29",
+    "startAt": "2025-10-19T08:18:20.803508+00:00",
+    "endAt": "2025-10-19T09:18:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6auw17",
+    "serviceId": "srv_mgx74z5vno29",
+    "startAt": "2025-10-20T13:18:20.803508+00:00",
+    "endAt": "2025-10-20T14:18:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6av1lr",
+    "serviceId": "srv_mgx74z5vsnns",
+    "startAt": "2025-10-19T03:48:20.803508+00:00",
+    "endAt": "2025-10-19T05:18:20.803508+00:00",
+    "priceCents": 14400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6aog57",
+    "serviceId": "srv_mgx74z5vno29",
+    "startAt": "2025-10-20T00:18:20.803508+00:00",
+    "endAt": "2025-10-20T01:18:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6a3kb1",
+    "serviceId": "srv_mgx74z5vno29",
+    "startAt": "2025-10-19T07:48:20.803508+00:00",
+    "endAt": "2025-10-19T08:48:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6b3cff",
+    "serviceId": "srv_mgx74z5vsnns",
+    "startAt": "2025-10-19T15:03:20.803508+00:00",
+    "endAt": "2025-10-19T16:33:20.803508+00:00",
+    "priceCents": 14400,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6bqe1h",
+    "serviceId": "srv_mgx74z5vsnns",
+    "startAt": "2025-10-20T10:03:20.803508+00:00",
+    "endAt": "2025-10-20T11:33:20.803508+00:00",
+    "priceCents": 14400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bs5wd",
+    "serviceId": "srv_mgx74z5vno29",
+    "startAt": "2025-10-19T13:33:20.803508+00:00",
+    "endAt": "2025-10-19T14:33:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bzs20",
+    "serviceId": "srv_mgx74z5vno29",
+    "startAt": "2025-10-19T21:33:20.803508+00:00",
+    "endAt": "2025-10-19T22:33:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6bmdwi",
+    "serviceId": "srv_mgx74z5vsnns",
+    "startAt": "2025-10-19T15:48:20.803508+00:00",
+    "endAt": "2025-10-19T17:18:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6brdwk",
+    "serviceId": "srv_mgx74z5vno29",
+    "startAt": "2025-10-21T03:33:20.803508+00:00",
+    "endAt": "2025-10-21T04:33:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6b180u",
+    "serviceId": "srv_mgx74z5vsnns",
+    "startAt": "2025-10-19T19:33:20.803508+00:00",
+    "endAt": "2025-10-19T21:03:20.803508+00:00",
+    "priceCents": 18000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bpy54",
+    "serviceId": "srv_mgx74z5vxnpk",
+    "startAt": "2025-10-20T17:33:20.803508+00:00",
+    "endAt": "2025-10-20T18:03:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bomob",
+    "serviceId": "srv_mgx74z5vxnpk",
+    "startAt": "2025-10-21T04:03:20.803508+00:00",
+    "endAt": "2025-10-21T04:33:20.803508+00:00",
+    "priceCents": 5000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6bhmc5",
+    "serviceId": "srv_mgx74z5vxnpk",
+    "startAt": "2025-10-20T02:18:20.803508+00:00",
+    "endAt": "2025-10-20T02:48:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bn2hv",
+    "serviceId": "srv_mgx74z5vhf71",
+    "startAt": "2025-10-21T01:33:20.803508+00:00",
+    "endAt": "2025-10-21T02:33:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6b7hwv",
+    "serviceId": "srv_mgx74z5vxnpk",
+    "startAt": "2025-10-18T22:33:20.803508+00:00",
+    "endAt": "2025-10-18T23:03:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6bc1yg",
+    "serviceId": "srv_mgx74z5vhf71",
+    "startAt": "2025-10-20T10:33:20.803508+00:00",
+    "endAt": "2025-10-20T11:33:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6bvnx2",
+    "serviceId": "srv_mgx74z5vhf71",
+    "startAt": "2025-10-19T15:18:20.803508+00:00",
+    "endAt": "2025-10-19T16:18:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6b51er",
+    "serviceId": "srv_mgx74z5vhf71",
+    "startAt": "2025-10-19T18:18:20.803508+00:00",
+    "endAt": "2025-10-19T19:18:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6b461u",
+    "serviceId": "srv_mgx74z5vxnpk",
+    "startAt": "2025-10-19T13:33:20.803508+00:00",
+    "endAt": "2025-10-19T14:03:20.803508+00:00",
+    "priceCents": 5000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bgf6u",
+    "serviceId": "srv_mgx74z5vhf71",
+    "startAt": "2025-10-21T01:18:20.803508+00:00",
+    "endAt": "2025-10-21T02:18:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6b4s6s",
+    "serviceId": "srv_mgx74z5vsdiv",
+    "startAt": "2025-10-21T03:18:20.803508+00:00",
+    "endAt": "2025-10-21T03:48:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6b3jr4",
+    "serviceId": "srv_mgx74z5vz7gg",
+    "startAt": "2025-10-21T00:33:20.803508+00:00",
+    "endAt": "2025-10-21T02:03:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bop6q",
+    "serviceId": "srv_mgx74z5vz7gg",
+    "startAt": "2025-10-20T17:18:20.803508+00:00",
+    "endAt": "2025-10-20T18:48:20.803508+00:00",
+    "priceCents": 18000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6br6l1",
+    "serviceId": "srv_mgx74z5vz7gg",
+    "startAt": "2025-10-20T12:18:20.803508+00:00",
+    "endAt": "2025-10-20T13:48:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6b604c",
+    "serviceId": "srv_mgx74z5vsdiv",
+    "startAt": "2025-10-20T07:48:20.803508+00:00",
+    "endAt": "2025-10-20T08:18:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bsbf8",
+    "serviceId": "srv_mgx74z5vz7gg",
+    "startAt": "2025-10-20T14:48:20.803508+00:00",
+    "endAt": "2025-10-20T16:18:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bwmjy",
+    "serviceId": "srv_mgx74z5vz7gg",
+    "startAt": "2025-10-19T01:33:20.803508+00:00",
+    "endAt": "2025-10-19T03:03:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bin0x",
+    "serviceId": "srv_mgx74z5vz7gg",
+    "startAt": "2025-10-19T08:03:20.803508+00:00",
+    "endAt": "2025-10-19T09:33:20.803508+00:00",
+    "priceCents": 18000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6brmcc",
+    "serviceId": "srv_mgx74z5vz7gg",
+    "startAt": "2025-10-19T01:33:20.803508+00:00",
+    "endAt": "2025-10-19T03:03:20.803508+00:00",
+    "priceCents": 14400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6btllj",
+    "serviceId": "srv_mgx74z5vz7gg",
+    "startAt": "2025-10-21T00:18:20.803508+00:00",
+    "endAt": "2025-10-21T01:48:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bve0e",
+    "serviceId": "srv_mgx74z5vsdiv",
+    "startAt": "2025-10-19T19:33:20.803508+00:00",
+    "endAt": "2025-10-19T20:03:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bodpb",
+    "serviceId": "srv_mgx74z5v5km4",
+    "startAt": "2025-10-20T13:33:20.803508+00:00",
+    "endAt": "2025-10-20T14:03:20.803508+00:00",
+    "priceCents": 5000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bz79i",
+    "serviceId": "srv_mgx74z5v4sbs",
+    "startAt": "2025-10-19T21:18:20.803508+00:00",
+    "endAt": "2025-10-19T22:18:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bccib",
+    "serviceId": "srv_mgx74z5v5km4",
+    "startAt": "2025-10-19T10:48:20.803508+00:00",
+    "endAt": "2025-10-19T11:18:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bbc1b",
+    "serviceId": "srv_mgx74z5v4sbs",
+    "startAt": "2025-10-19T14:33:20.803508+00:00",
+    "endAt": "2025-10-19T15:33:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bo7ld",
+    "serviceId": "srv_mgx74z5v5km4",
+    "startAt": "2025-10-19T04:18:20.803508+00:00",
+    "endAt": "2025-10-19T04:48:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6bccyo",
+    "serviceId": "srv_mgx74z5v5km4",
+    "startAt": "2025-10-20T19:18:20.803508+00:00",
+    "endAt": "2025-10-20T19:48:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6b2cyi",
+    "serviceId": "srv_mgx74z5v5km4",
+    "startAt": "2025-10-19T19:03:20.803508+00:00",
+    "endAt": "2025-10-19T19:33:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6bawow",
+    "serviceId": "srv_mgx74z5v5km4",
+    "startAt": "2025-10-19T11:18:20.803508+00:00",
+    "endAt": "2025-10-19T11:48:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6buhp2",
+    "serviceId": "srv_mgx74z5v5km4",
+    "startAt": "2025-10-20T08:03:20.803508+00:00",
+    "endAt": "2025-10-20T08:33:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6bgz58",
+    "serviceId": "srv_mgx74z5v5km4",
+    "startAt": "2025-10-20T02:03:20.803508+00:00",
+    "endAt": "2025-10-20T02:33:20.803508+00:00",
+    "priceCents": 5000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6b2twl",
+    "serviceId": "srv_mgx74z5v4sbs",
+    "startAt": "2025-10-19T17:03:20.803508+00:00",
+    "endAt": "2025-10-19T18:03:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bkho1",
+    "serviceId": "srv_mgx74z5vc8fv",
+    "startAt": "2025-10-20T04:03:20.803508+00:00",
+    "endAt": "2025-10-20T05:03:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bm5iw",
+    "serviceId": "srv_mgx74z5vnwe7",
+    "startAt": "2025-10-20T02:33:20.803508+00:00",
+    "endAt": "2025-10-20T04:03:20.803508+00:00",
+    "priceCents": 14400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6b674n",
+    "serviceId": "srv_mgx74z5v1nzn",
+    "startAt": "2025-10-20T08:18:20.803508+00:00",
+    "endAt": "2025-10-20T08:48:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6byg0j",
+    "serviceId": "srv_mgx74z5vc8fv",
+    "startAt": "2025-10-20T21:48:20.803508+00:00",
+    "endAt": "2025-10-20T22:48:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6bp0uw",
+    "serviceId": "srv_mgx74z5vc8fv",
+    "startAt": "2025-10-21T02:48:20.803508+00:00",
+    "endAt": "2025-10-21T03:48:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6bl5kc",
+    "serviceId": "srv_mgx74z5vnwe7",
+    "startAt": "2025-10-20T08:03:20.803508+00:00",
+    "endAt": "2025-10-20T09:33:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6bj0vm",
+    "serviceId": "srv_mgx74z5v1nzn",
+    "startAt": "2025-10-18T23:48:20.803508+00:00",
+    "endAt": "2025-10-19T00:18:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6byjk1",
+    "serviceId": "srv_mgx74z5vc8fv",
+    "startAt": "2025-10-19T13:03:20.803508+00:00",
+    "endAt": "2025-10-19T14:03:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6clpod",
+    "serviceId": "srv_mgx74z5v1nzn",
+    "startAt": "2025-10-21T00:18:20.803508+00:00",
+    "endAt": "2025-10-21T00:48:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6czb2v",
+    "serviceId": "srv_mgx74z5v1nzn",
+    "startAt": "2025-10-20T02:48:20.803508+00:00",
+    "endAt": "2025-10-20T03:18:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6cidei",
+    "serviceId": "srv_mgx74z5vnwe7",
+    "startAt": "2025-10-19T09:33:20.803508+00:00",
+    "endAt": "2025-10-19T11:03:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6cx0ak",
+    "serviceId": "srv_mgx74z5v1nzn",
+    "startAt": "2025-10-20T07:18:20.803508+00:00",
+    "endAt": "2025-10-20T07:48:20.803508+00:00",
+    "priceCents": 5000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6cyqu4",
+    "serviceId": "srv_mgx74z5vc8fv",
+    "startAt": "2025-10-19T23:33:20.803508+00:00",
+    "endAt": "2025-10-20T00:33:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6chc09",
+    "serviceId": "srv_mgx74z5v8k4s",
+    "startAt": "2025-10-19T17:33:20.803508+00:00",
+    "endAt": "2025-10-19T19:03:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6cxlvt",
+    "serviceId": "srv_mgx74z5vxqq4",
+    "startAt": "2025-10-19T03:03:20.803508+00:00",
+    "endAt": "2025-10-19T04:03:20.803508+00:00",
+    "priceCents": 10800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6ctmjp",
+    "serviceId": "srv_mgx74z5vxqq4",
+    "startAt": "2025-10-20T10:18:20.803508+00:00",
+    "endAt": "2025-10-20T11:18:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6cp2fa",
+    "serviceId": "srv_mgx74z5vxqq4",
+    "startAt": "2025-10-20T16:33:20.803508+00:00",
+    "endAt": "2025-10-20T17:33:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6c6wkq",
+    "serviceId": "srv_mgx74z5vxqq4",
+    "startAt": "2025-10-20T00:18:20.803508+00:00",
+    "endAt": "2025-10-20T01:18:20.803508+00:00",
+    "priceCents": 9600,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6ccp20",
+    "serviceId": "srv_mgx74z5v4jpu",
+    "startAt": "2025-10-20T15:03:20.803508+00:00",
+    "endAt": "2025-10-20T15:33:20.803508+00:00",
+    "priceCents": 5500,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6cvt45",
+    "serviceId": "srv_mgx74z5vxqq4",
+    "startAt": "2025-10-19T05:33:20.803508+00:00",
+    "endAt": "2025-10-19T06:33:20.803508+00:00",
+    "priceCents": 13200,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6c8uha",
+    "serviceId": "srv_mgx74z5v8k4s",
+    "startAt": "2025-10-20T16:33:20.803508+00:00",
+    "endAt": "2025-10-20T18:03:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6ch9sm",
+    "serviceId": "srv_mgx74z5v8k4s",
+    "startAt": "2025-10-19T23:33:20.803508+00:00",
+    "endAt": "2025-10-20T01:03:20.803508+00:00",
+    "priceCents": 14400,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6cs3x6",
+    "serviceId": "srv_mgx74z5v4jpu",
+    "startAt": "2025-10-19T11:18:20.803508+00:00",
+    "endAt": "2025-10-19T11:48:20.803508+00:00",
+    "priceCents": 4500,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6cfc51",
+    "serviceId": "srv_mgx74z5vxqq4",
+    "startAt": "2025-10-20T23:33:20.803508+00:00",
+    "endAt": "2025-10-21T00:33:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "BOOKED"
+  },
+  {
+    "id": "slt_mgx74z6cqw6k",
+    "serviceId": "srv_mgx74z5v4jpu",
+    "startAt": "2025-10-21T01:33:20.803508+00:00",
+    "endAt": "2025-10-21T02:03:20.803508+00:00",
+    "priceCents": 4000,
+    "status": "HELD"
+  },
+  {
+    "id": "slt_mgx74z6ckb0p",
+    "serviceId": "srv_mgx74z5vxqq4",
+    "startAt": "2025-10-19T05:33:20.803508+00:00",
+    "endAt": "2025-10-19T06:33:20.803508+00:00",
+    "priceCents": 12000,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx74z6ce4hn",
+    "serviceId": "srv_mgx74z5v8k4s",
+    "startAt": "2025-10-19T18:18:20.803508+00:00",
+    "endAt": "2025-10-19T19:48:20.803508+00:00",
+    "priceCents": 19800,
+    "status": "OPEN"
+  },
+  {
+    "id": "slt_mgx8jj2f46g",
+    "serviceId": "srv_mgx8j9hfsb",
+    "startAt": "2025-10-19T10:00:00.000Z",
+    "endAt": "2025-10-19T10:30:00.000Z",
+    "priceCents": 3000,
+    "status": "OPEN",
+    "createdAt": "2025-10-19T04:57:39.399Z"
+  }
+]
